@@ -1,0 +1,567 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 14.4186600, 35.9531000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4457835258960205488",
+      "Location" : {
+        "Address" : "Triq it-Turisti, Saint Paul's Bay SPB 1024, Malta",
+        "Business Name" : "db San Antonio Hotel + Spa",
+        "Country Code" : "MT",
+        "Geo Coordinates" : {
+          "Latitude" : "35.9531000",
+          "Longitude" : "14.4186600"
+        }
+      },
+      "Published" : "2018-05-17T08:00:51Z",
+      "Title" : "db San Antonio Hotel + Spa",
+      "Updated" : "2018-05-17T08:00:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.416715, 39.901757 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Novotel+Xinqiao+Beijing,+Dongcheng+Qu,+Beijing+Shi,+China&ftid=0x35f052b4f4f7a427:0x226e6cbc0d8a1469",
+      "Location" : {
+        "Latitude" : "39.901757",
+        "Longitude" : "116.416715"
+      },
+      "Published" : "2018-05-17T07:59:53Z",
+      "Title" : "Novotel Xinqiao Beijing, Dongcheng Qu, Beijing Shi, China",
+      "Updated" : "2018-05-17T07:59:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 113.9342830, 22.3188350 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7072447689139259600",
+      "Location" : {
+        "Address" : "Hong Kong International Airport, 9 Cheong Tat Road, Chek Lap Kok Lantau Island, Hong Kong",
+        "Business Name" : "Regal Airport Hotel",
+        "Country Code" : "HK",
+        "Geo Coordinates" : {
+          "Latitude" : "22.3188350",
+          "Longitude" : "113.9342830"
+        }
+      },
+      "Published" : "2018-05-17T07:59:08Z",
+      "Title" : "Regal Airport Hotel",
+      "Updated" : "2018-05-17T07:59:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.8737478, 35.6271070 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6973507436995967977",
+      "Location" : {
+        "Address" : "1-8 Maihama, Urayasu, Chiba Prefecture 279-0031, Japan",
+        "Business Name" : "Hilton Tokyo Bay",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6271070",
+          "Longitude" : "139.8737478"
+        }
+      },
+      "Published" : "2018-05-17T07:58:16Z",
+      "Title" : "Hilton Tokyo Bay",
+      "Updated" : "2018-05-17T07:58:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 121.6681620, 31.1413550 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11449882473555981466",
+      "Location" : {
+        "Address" : "China",
+        "Business Name" : "Disney",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "31.1413550",
+          "Longitude" : "121.6681620"
+        }
+      },
+      "Published" : "2018-05-17T07:56:53Z",
+      "Title" : "Disney",
+      "Updated" : "2018-05-17T07:56:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 121.4698860, 31.2307110 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17175557875801282855",
+      "Location" : {
+        "Address" : "399 Nanjing West Road, Huangpu, Shanghai, China, 200003",
+        "Business Name" : "JW Marriott Hotel Shanghai at Tomorrow Square",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "31.2307110",
+          "Longitude" : "121.4698860"
+        }
+      },
+      "Published" : "2018-05-05T09:26:53Z",
+      "Title" : "JW Marriott Hotel Shanghai at Tomorrow Square",
+      "Updated" : "2018-05-05T09:26:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.144146, 22.277545 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=31+Lugard+Rd,+The+Peak,+Hong+Kong&ftid=0x34040077d5352bd7:0xfff4043eabbc118e",
+      "Location" : {
+        "Latitude" : "22.277545",
+        "Longitude" : "114.144146"
+      },
+      "Published" : "2018-04-02T20:23:09Z",
+      "Title" : "31 Lugard Rd, The Peak, Hong Kong",
+      "Updated" : "2018-04-02T20:23:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0988897, 51.3654548 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11387945812087264308",
+      "Location" : {
+        "Address" : "67 South End, East Croydon, Croydon CR0 1BF, United Kingdom",
+        "Business Name" : "Abshar Restaurant",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.3654548",
+          "Longitude" : "-0.0988897"
+        }
+      },
+      "Published" : "2018-01-26T17:23:55Z",
+      "Title" : "Abshar Restaurant",
+      "Updated" : "2018-01-26T17:23:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0960520, 51.3777790 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1778215124559515443",
+      "Location" : {
+        "Address" : "30 Dingwall Road, Croydon CR0 2NB, United Kingdom",
+        "Business Name" : "Hampton by Hilton London Croydon",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.3777790",
+          "Longitude" : "-0.0960520"
+        }
+      },
+      "Published" : "2018-01-26T17:22:45Z",
+      "Title" : "Hampton by Hilton London Croydon",
+      "Updated" : "2018-01-26T17:22:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.3876630, 43.7245700 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6203568393570389713",
+      "Location" : {
+        "Address" : "Via Mino Rosi, 12, 56122 Pisa PI, Italy",
+        "Business Name" : "Rosso di Sera Relais Tuscany",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "43.7245700",
+          "Longitude" : "10.3876630"
+        }
+      },
+      "Published" : "2017-10-06T12:50:58Z",
+      "Title" : "Rosso di Sera Relais Tuscany",
+      "Updated" : "2017-10-06T12:50:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4135533, 52.5392510 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1994452411317672679",
+      "Location" : {
+        "Address" : "Schönhauser Allee 36, 10435 Berlin, Germany",
+        "Business Name" : "KulturBrauerei",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5392510",
+          "Longitude" : "13.4135533"
+        }
+      },
+      "Published" : "2017-06-10T15:01:27Z",
+      "Title" : "KulturBrauerei",
+      "Updated" : "2017-06-10T15:01:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3258883, 52.5050001 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10357961563698302285",
+      "Location" : {
+        "Address" : "Uhlandstraße 188-189, 10623 Berlin, Germany",
+        "Business Name" : "Hampton by Hilton Berlin City West",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5050001",
+          "Longitude" : "13.3258883"
+        }
+      },
+      "Published" : "2017-06-10T08:34:13Z",
+      "Title" : "Hampton by Hilton Berlin City West",
+      "Updated" : "2017-06-10T08:34:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1576601, 51.1567744 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17504766089355090387",
+      "Location" : {
+        "Address" : "South Terminal, Eastway, Gatwick RH6 0LL, United Kingdom",
+        "Business Name" : "Hilton London Gatwick Airport",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.1567744",
+          "Longitude" : "-0.1576601"
+        }
+      },
+      "Published" : "2017-05-30T05:45:05Z",
+      "Title" : "Hilton London Gatwick Airport",
+      "Updated" : "2017-05-30T05:45:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1628275, 51.1564848 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2073109427796495014",
+      "Location" : {
+        "Address" : "South Terminal, Perimeter Road East, Horley, Gatwick RH6 0NN, United Kingdom",
+        "Business Name" : "BLOC",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.1564848",
+          "Longitude" : "-0.1628275"
+        }
+      },
+      "Published" : "2017-05-30T05:44:52Z",
+      "Title" : "BLOC Hotel Gatwick",
+      "Updated" : "2017-05-30T05:44:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 41.0315754, 43.0013311 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9270543262023233128",
+      "Location" : {
+        "Address" : "улица Читанава, Sokhumi, Georgia",
+        "Business Name" : "Leon Boutique Hotel",
+        "Country Code" : "GE",
+        "Geo Coordinates" : {
+          "Latitude" : "43.0013311",
+          "Longitude" : "41.0315754"
+        }
+      },
+      "Published" : "2017-05-21T02:31:30Z",
+      "Title" : "Leon Boutique Hotel",
+      "Updated" : "2017-05-21T02:31:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 42.6988131, 42.2654780 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13048180425165839088",
+      "Location" : {
+        "Address" : "51 Galaktion Tabidze Street, Kutaisi 4600, Georgia",
+        "Business Name" : "Boutique Hotel Argo",
+        "Country Code" : "GE",
+        "Geo Coordinates" : {
+          "Latitude" : "42.2654780",
+          "Longitude" : "42.6988131"
+        }
+      },
+      "Published" : "2017-05-21T02:31:16Z",
+      "Title" : "Boutique Hotel Argo",
+      "Updated" : "2017-05-21T02:31:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.4197335, 53.0918852 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14837610156166395809",
+      "Location" : {
+        "Address" : "Emperor Way, Crewe CW1 6BD, United Kingdom",
+        "Business Name" : "Hotel ibis Styles Crewe",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "53.0918852",
+          "Longitude" : "-2.4197335"
+        }
+      },
+      "Published" : "2017-03-31T12:14:39Z",
+      "Title" : "Hotel ibis Styles",
+      "Updated" : "2017-03-31T12:14:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 103.8531040, 1.2995230 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18174893869204677819",
+      "Location" : {
+        "Address" : "122 Middle Road, Singapore 188973",
+        "Business Name" : "Mercure Singapore Bugis",
+        "Country Code" : "SG",
+        "Geo Coordinates" : {
+          "Latitude" : "1.2995230",
+          "Longitude" : "103.8531040"
+        }
+      },
+      "Published" : "2017-03-21T14:38:56Z",
+      "Title" : "Hotel Mercure Singapore Bugis",
+      "Updated" : "2017-03-21T14:38:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.1681352, 22.3182384 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14616188045506459607",
+      "Location" : {
+        "Address" : "555 Shanghai Street, Mong Kok, Hong Kong",
+        "Business Name" : "Cordis, Hong Kong",
+        "Country Code" : "HK",
+        "Geo Coordinates" : {
+          "Latitude" : "22.3182384",
+          "Longitude" : "114.1681352"
+        }
+      },
+      "Published" : "2016-12-25T08:09:07Z",
+      "Title" : "Cordis, Hong Kong at Langham Place",
+      "Updated" : "2016-12-25T08:09:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 20.4618731, 44.8179670 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13422506492308534883",
+      "Location" : {
+        "Address" : "Dositejeva 9a, Beograd 11000, Serbia",
+        "Business Name" : "Little Bay",
+        "Country Code" : "RS",
+        "Geo Coordinates" : {
+          "Latitude" : "44.8179670",
+          "Longitude" : "20.4618731"
+        }
+      },
+      "Published" : "2016-10-02T20:57:34Z",
+      "Title" : "Little Bay D.O.O. Beograd",
+      "Updated" : "2016-10-02T20:57:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 20.4597720, 44.8108410 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11876803642279274961",
+      "Location" : {
+        "Address" : "RS, 11000, Kraljice Natalije 27, Beograd 11000, Serbia",
+        "Business Name" : "Hotel Prag",
+        "Country Code" : "RS",
+        "Geo Coordinates" : {
+          "Latitude" : "44.8108410",
+          "Longitude" : "20.4597720"
+        }
+      },
+      "Published" : "2016-10-02T06:37:21Z",
+      "Title" : "Hotel Prag",
+      "Updated" : "2016-10-02T06:37:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 17.7985800, 43.3522170 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5133105298252390367",
+      "Location" : {
+        "Address" : "Vukovarska, Mostar 88000, Bosnia & Herzegovina",
+        "Business Name" : "City Hotel",
+        "Country Code" : "BA",
+        "Geo Coordinates" : {
+          "Latitude" : "43.3522170",
+          "Longitude" : "17.7985800"
+        }
+      },
+      "Published" : "2016-09-30T05:13:32Z",
+      "Title" : "City Hotel",
+      "Updated" : "2016-09-30T05:13:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.5147687, 46.0535999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14107483882217788407",
+      "Location" : {
+        "Address" : "Tabor 9, 1000 Ljubljana, Slovenia",
+        "Business Name" : "Hotel Park Ljubljana - Urban & Green",
+        "Country Code" : "SI",
+        "Geo Coordinates" : {
+          "Latitude" : "46.0535999",
+          "Longitude" : "14.5147687"
+        }
+      },
+      "Published" : "2016-09-23T20:07:55Z",
+      "Title" : "Hotel Park Ljubljana - Urban & Green",
+      "Updated" : "2016-09-23T20:07:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 100.5374340, 13.7589300 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16717372523665850666",
+      "Location" : {
+        "Address" : "8-2 Rang Nam Alley, Thanon Phaya Thai, Ratchathewi, กรุงเทพมหานคร 10400, Thailand",
+        "Business Name" : "Pullman Bangkok King Power",
+        "Country Code" : "TH",
+        "Geo Coordinates" : {
+          "Latitude" : "13.7589300",
+          "Longitude" : "100.5374340"
+        }
+      },
+      "Published" : "2015-12-23T19:48:36Z",
+      "Title" : "Hotel Pullman Bangkok King Power",
+      "Updated" : "2015-12-23T19:48:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 45.388115, 35.575439 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=35.5754390657896,45.388114638626575",
+      "Location" : {
+        "Latitude" : "35.575439",
+        "Longitude" : "45.388115"
+      },
+      "Published" : "2015-10-28T15:40:42Z",
+      "Title" : "35.5754390657896,45.388114638626575",
+      "Updated" : "2015-10-28T15:40:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 44.0122712, 36.1784060 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11022065800176101654",
+      "Location" : {
+        "Address" : "Kirkuk Rd, Erbil, Iraq",
+        "Business Name" : "Safeer",
+        "Country Code" : "IQ",
+        "Geo Coordinates" : {
+          "Latitude" : "36.1784060",
+          "Longitude" : "44.0122712"
+        }
+      },
+      "Published" : "2015-10-26T06:00:49Z",
+      "Title" : "Safeer Hotel",
+      "Updated" : "2015-10-26T06:00:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.978825, 37.562050 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17395286228320685886",
+      "Location" : {
+        "Latitude" : "37.562050",
+        "Longitude" : "126.978825"
+      },
+      "Published" : "2015-05-23T07:33:45Z",
+      "Title" : "Shinshin Hotel Myeongdong",
+      "Updated" : "2015-05-23T07:33:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.978825, 37.562050 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17395286228320685886",
+      "Location" : {
+        "Latitude" : "37.562050",
+        "Longitude" : "126.978825"
+      },
+      "Published" : "2015-05-23T07:33:45Z",
+      "Title" : "Shinshin Hotel Myeongdong",
+      "Updated" : "2015-05-23T07:33:45Z"
+    },
+    "type" : "Feature"
+  } ]
+}
