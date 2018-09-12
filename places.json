@@ -2,6 +2,685 @@
   "type" : "FeatureCollection",
   "features" : [ {
     "geometry" : {
+      "coordinates" : [ 54.6415610, 24.4285580 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1068146055838553218",
+      "Location" : {
+        "Address" : "Abu Dhabi International Airport,Opposite Terminals 1 & 3 - أبو ظبي - United Arab Emirates",
+        "Business Name" : "Premier Inn Abu Dhabi International Airport Hotel",
+        "Country Code" : "AE",
+        "Geo Coordinates" : {
+          "Latitude" : "24.4285580",
+          "Longitude" : "54.6415610"
+        }
+      },
+      "Published" : "2018-09-11T20:25:23Z",
+      "Title" : "Premier Inn Abu Dhabi International Airport Hotel",
+      "Updated" : "2018-09-11T20:25:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.7836475, 48.8696268 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18234409281205859866",
+      "Location" : {
+        "Address" : "Disneyland Paris, Disney Village, 77700 Chessy, France",
+        "Business Name" : "Annette's Diner",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "48.8696268",
+          "Longitude" : "2.7836475"
+        }
+      },
+      "Published" : "2018-09-11T20:23:29Z",
+      "Title" : "Annette's Diner",
+      "Updated" : "2018-09-11T20:23:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -18.1061726, 65.6911250 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9245173764239642128",
+      "Location" : {
+        "Address" : "603, Stórholt 1, Akureyri, Iceland",
+        "Business Name" : "Akureyri HI Hostel",
+        "Country Code" : "IS",
+        "Geo Coordinates" : {
+          "Latitude" : "65.6911250",
+          "Longitude" : "-18.1061726"
+        }
+      },
+      "Published" : "2018-09-11T20:18:23Z",
+      "Title" : "Akureyri HI Hostel",
+      "Updated" : "2018-09-11T20:18:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.3011036, 57.6689331 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3316238061328959562",
+      "Location" : {
+        "Address" : "Flygets Hotellväg, 438 13 Landvetter, Sweden",
+        "Business Name" : "Landvetter Airport Hotel",
+        "Country Code" : "SE",
+        "Geo Coordinates" : {
+          "Latitude" : "57.6689331",
+          "Longitude" : "12.3011036"
+        }
+      },
+      "Published" : "2018-09-11T20:15:44Z",
+      "Title" : "Landvetter Airport Hotel",
+      "Updated" : "2018-09-11T20:15:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 103.8238084, 1.2540421 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3500426646667023007",
+      "Location" : {
+        "Address" : "8 Sentosa Gateway, Singapore 098269",
+        "Business Name" : "Universal Studios Singapore",
+        "Country Code" : "SG",
+        "Geo Coordinates" : {
+          "Latitude" : "1.2540421",
+          "Longitude" : "103.8238084"
+        }
+      },
+      "Published" : "2018-09-11T20:10:36Z",
+      "Title" : "Universal Studios Singapore",
+      "Updated" : "2018-09-11T20:10:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 103.8607264, 1.2833754 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9123933771843294962",
+      "Location" : {
+        "Address" : "10 Bayfront Avenue, Singapore 018956",
+        "Business Name" : "Marina Bay Sands, Singapore",
+        "Country Code" : "SG",
+        "Geo Coordinates" : {
+          "Latitude" : "1.2833754",
+          "Longitude" : "103.8607264"
+        }
+      },
+      "Published" : "2018-09-11T20:10:24Z",
+      "Title" : "Marina Bay Sands, Singapore",
+      "Updated" : "2018-09-11T20:10:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 103.8639057, 1.2819617 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14516408273722441878",
+      "Location" : {
+        "Address" : "18 Marina Gardens Drive, Singapore 018953",
+        "Business Name" : "Supertree Grove",
+        "Country Code" : "SG",
+        "Geo Coordinates" : {
+          "Latitude" : "1.2819617",
+          "Longitude" : "103.8639057"
+        }
+      },
+      "Published" : "2018-09-11T20:10:00Z",
+      "Title" : "Supertree Grove",
+      "Updated" : "2018-09-11T20:10:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.0689051, 51.3067895 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11186684631462514667",
+      "Location" : {
+        "Address" : "oblast, Kyiv Oblast, Ukraine",
+        "Business Name" : "The Russian Woodpecker Transmitter",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "51.3067895",
+          "Longitude" : "30.0689051"
+        }
+      },
+      "Published" : "2018-09-11T20:08:02Z",
+      "Title" : "The Russian Woodpecker Transmitter",
+      "Updated" : "2018-09-11T20:08:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.054233, 51.404503 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pryp'yat',+Kyiv+Oblast,+Ukraine&ftid=0x472a7daa5b69c469:0x32d80be9b6bf089a",
+      "Location" : {
+        "Latitude" : "51.404503",
+        "Longitude" : "30.054233"
+      },
+      "Published" : "2018-09-11T20:07:16Z",
+      "Title" : "Pryp'yat', Kyiv Oblast, Ukraine",
+      "Updated" : "2018-09-11T20:07:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.5224600, 35.8872361 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8038763497285617055",
+      "Location" : {
+        "Address" : "Triq Il-Palazz Ta' L-Isqof, Birgu BRG 1023, Malta",
+        "Business Name" : "Inquisitor's Palace",
+        "Country Code" : "MT",
+        "Geo Coordinates" : {
+          "Latitude" : "35.8872361",
+          "Longitude" : "14.5224600"
+        }
+      },
+      "Published" : "2018-09-11T20:06:21Z",
+      "Title" : "Inquisitor's Palace",
+      "Updated" : "2018-09-11T20:06:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.5206800, 35.8877091 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3792538105576777782",
+      "Location" : {
+        "Address" : "Ex-Naval Bakery Vittoriosa Waterfront, Birgu BRG 1721, Malta",
+        "Business Name" : "Malta Maritime Museum",
+        "Country Code" : "MT",
+        "Geo Coordinates" : {
+          "Latitude" : "35.8877091",
+          "Longitude" : "14.5206800"
+        }
+      },
+      "Published" : "2018-09-11T20:03:10Z",
+      "Title" : "Malta Maritime Museum",
+      "Updated" : "2018-09-11T20:03:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.5178390, 35.8924685 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4923718052932037335",
+      "Location" : {
+        "Address" : "Birgu Waterfront, Birgu, Malta",
+        "Business Name" : "Fort St. Angelo",
+        "Country Code" : "MT",
+        "Geo Coordinates" : {
+          "Latitude" : "35.8924685",
+          "Longitude" : "14.5178390"
+        }
+      },
+      "Published" : "2018-09-11T19:59:20Z",
+      "Title" : "Fort St. Angelo",
+      "Updated" : "2018-09-11T19:59:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.5452762, 35.8410905 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15230564865071583006",
+      "Location" : {
+        "Address" : "Xatt is-Sajjieda, Marsaxlokk, Malta",
+        "Business Name" : "Marsaxlokk Open Market",
+        "Country Code" : "MT",
+        "Geo Coordinates" : {
+          "Latitude" : "35.8410905",
+          "Longitude" : "14.5452762"
+        }
+      },
+      "Published" : "2018-09-11T19:58:45Z",
+      "Title" : "Marsaxlokk Open Market",
+      "Updated" : "2018-09-11T19:58:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.406836, 35.888093 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mdina,+Malta&ftid=0x130e519568ce9a2f:0x99705c199db5bc13",
+      "Location" : {
+        "Latitude" : "35.888093",
+        "Longitude" : "14.406836"
+      },
+      "Published" : "2018-09-11T19:57:53Z",
+      "Title" : "Mdina, Malta",
+      "Updated" : "2018-09-11T19:57:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4163263, 35.8933177 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15621788687234029009",
+      "Location" : {
+        "Address" : "Attard, Malta",
+        "Business Name" : "Malta Aviation Museum",
+        "Country Code" : "MT",
+        "Geo Coordinates" : {
+          "Latitude" : "35.8933177",
+          "Longitude" : "14.4163263"
+        }
+      },
+      "Published" : "2018-09-11T19:57:27Z",
+      "Title" : "Malta Aviation Museum",
+      "Updated" : "2018-09-11T19:57:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.3965970, 43.7229520 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3669494377653533699",
+      "Location" : {
+        "Address" : "Piazza del Duomo, 56126 Pisa PI, Italy",
+        "Business Name" : "Leaning Tower of Pisa",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "43.7229520",
+          "Longitude" : "10.3965970"
+        }
+      },
+      "Published" : "2018-09-11T19:57:05Z",
+      "Title" : "Leaning Tower of Pisa",
+      "Updated" : "2018-09-11T19:57:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 24.9404303, 60.1881704 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6454400033252444218",
+      "Location" : {
+        "Address" : "Tivolikuja 1, 00510 Helsinki, Finland",
+        "Business Name" : "Linnanmaki",
+        "Country Code" : "FI",
+        "Geo Coordinates" : {
+          "Latitude" : "60.1881704",
+          "Longitude" : "24.9404303"
+        }
+      },
+      "Published" : "2018-09-11T19:56:11Z",
+      "Title" : "Linnanmaki",
+      "Updated" : "2018-09-11T19:56:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 24.9881401, 60.1454000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=907738204477064983",
+      "Location" : {
+        "Address" : "00190 Helsinki, Finland",
+        "Business Name" : "Suomenlinna",
+        "Country Code" : "FI",
+        "Geo Coordinates" : {
+          "Latitude" : "60.1454000",
+          "Longitude" : "24.9881401"
+        }
+      },
+      "Published" : "2018-09-11T19:55:58Z",
+      "Title" : "Suomenlinna",
+      "Updated" : "2018-09-11T19:55:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.9074777, 60.1248328 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1508455092512465098",
+      "Location" : {
+        "Address" : "67 Flygfältsvägen, Jomala 22130, Åland Islands",
+        "Business Name" : "MAARIANHAMINAN LENTOASEMA",
+        "Country Code" : "AX",
+        "Geo Coordinates" : {
+          "Latitude" : "60.1248328",
+          "Longitude" : "19.9074777"
+        }
+      },
+      "Published" : "2018-09-11T19:55:19Z",
+      "Title" : "MAARIANHAMINAN LENTOASEMA",
+      "Updated" : "2018-09-11T19:55:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.924926, 60.102527 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=60.10252726885052,19.92492612451315",
+      "Location" : {
+        "Latitude" : "60.102527",
+        "Longitude" : "19.924926"
+      },
+      "Published" : "2018-09-11T19:55:08Z",
+      "Title" : "60.10252726885052,19.92492612451315",
+      "Updated" : "2018-09-11T19:55:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.9427184, 60.1199422 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7221020619307015507",
+      "Location" : {
+        "Address" : "21 Godbyvägen, Mariehamn 22100, Åland Islands",
+        "Business Name" : "Strandnäs Hotell",
+        "Country Code" : "AX",
+        "Geo Coordinates" : {
+          "Latitude" : "60.1199422",
+          "Longitude" : "19.9427184"
+        }
+      },
+      "Published" : "2018-09-11T19:54:03Z",
+      "Title" : "Strandnäs Hotell",
+      "Updated" : "2018-09-11T19:54:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5992828, 55.6928600 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16116289650480717372",
+      "Location" : {
+        "Address" : "Langelinie, 2100 København Ø, Denmark",
+        "Business Name" : "The Little Mermaid",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6928600",
+          "Longitude" : "12.5992828"
+        }
+      },
+      "Published" : "2018-09-11T19:53:06Z",
+      "Title" : "The Little Mermaid",
+      "Updated" : "2018-09-11T19:53:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3694020, 52.5250839 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8808047001036717226",
+      "Location" : {
+        "Address" : "Hauptbahnhof, Europaplatz 1, 10557 Berlin, Germany",
+        "Business Name" : "Berlin Central Station",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5250839",
+          "Longitude" : "13.3694020"
+        }
+      },
+      "Published" : "2018-09-11T19:52:15Z",
+      "Title" : "Berlin Central Station",
+      "Updated" : "2018-09-11T19:52:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.2388740, 52.4966560 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4787629993113422276",
+      "Location" : {
+        "Address" : "Teufelsseechaussee 10, 14193 Berlin, Germany",
+        "Business Name" : "Teufelsberg",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4966560",
+          "Longitude" : "13.2388740"
+        }
+      },
+      "Published" : "2018-09-11T19:50:41Z",
+      "Title" : "Teufelsberg",
+      "Updated" : "2018-09-11T19:50:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.6048442, 58.8849857 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5567377928216002191",
+      "Location" : {
+        "Address" : "Axel Lunds veg 27, 4050 Sola, Norway",
+        "Business Name" : "Sola Strand Hotel",
+        "Country Code" : "NO",
+        "Geo Coordinates" : {
+          "Latitude" : "58.8849857",
+          "Longitude" : "5.6048442"
+        }
+      },
+      "Published" : "2018-09-11T19:49:59Z",
+      "Title" : "Sola Strand Hotel",
+      "Updated" : "2018-09-11T19:49:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.2753538, 53.3650480 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11961106303998249905",
+      "Location" : {
+        "Address" : "Chicago Avenue, Manchester M90 3RA, United Kingdom",
+        "Business Name" : "Radisson Blu Hotel Manchester Airport",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "53.3650480",
+          "Longitude" : "-2.2753538"
+        }
+      },
+      "Published" : "2018-09-11T19:47:35Z",
+      "Title" : "Radisson Blu Hotel Manchester Airport",
+      "Updated" : "2018-09-11T19:47:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.862571, 54.188580 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=54.18857981310714,-2.862571142613888",
+      "Location" : {
+        "Latitude" : "54.188580",
+        "Longitude" : "-2.862571"
+      },
+      "Published" : "2018-09-11T18:43:58Z",
+      "Title" : "54.18857981310714,-2.862571142613888",
+      "Updated" : "2018-09-11T18:43:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.613073, 55.385630 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=55.385629642815275,-1.6130731254816055",
+      "Location" : {
+        "Latitude" : "55.385630",
+        "Longitude" : "-1.613073"
+      },
+      "Published" : "2018-09-11T18:19:01Z",
+      "Title" : "55.385629642815275,-1.6130731254816055",
+      "Updated" : "2018-09-11T18:19:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.1642789, 22.4476846 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7384593896371534562",
+      "Location" : {
+        "Address" : "13 Shung Tak Street, Tai Po, Hong Kong",
+        "Business Name" : "Hong Kong Railway Museum",
+        "Country Code" : "HK",
+        "Geo Coordinates" : {
+          "Latitude" : "22.4476846",
+          "Longitude" : "114.1642789"
+        }
+      },
+      "Published" : "2018-09-11T17:12:55Z",
+      "Title" : "Hong Kong Railway Museum",
+      "Updated" : "2018-09-11T17:12:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.0404563, 22.3100090 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7245204444367809560",
+      "Location" : {
+        "Address" : "Hong Kong, 廸士尼公園大嶼山 香港迪士尼樂園迷離莊園",
+        "Business Name" : "Explorer's Club Restaurant",
+        "Country Code" : "HK",
+        "Geo Coordinates" : {
+          "Latitude" : "22.3100090",
+          "Longitude" : "114.0404563"
+        }
+      },
+      "Published" : "2018-09-11T17:10:37Z",
+      "Title" : "Explorer's Club Restaurant",
+      "Updated" : "2018-09-11T17:10:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.039881, 22.315412 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Hong+Kong+Disneyland+Resort,+Hong+Kong&ftid=0x3403fc28a365b609:0xd2c28e5aa2b5ba00",
+      "Location" : {
+        "Latitude" : "22.315412",
+        "Longitude" : "114.039881"
+      },
+      "Published" : "2018-09-11T17:10:12Z",
+      "Title" : "Hong Kong Disneyland Resort, Hong Kong",
+      "Updated" : "2018-09-11T17:10:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.2418778, 22.2394669 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4351270667002485668",
+      "Location" : {
+        "Address" : "Hong Kong Trail Sec. 8, Shek O, Hong Kong",
+        "Business Name" : "Dragon's Back",
+        "Country Code" : "HK",
+        "Geo Coordinates" : {
+          "Latitude" : "22.2394669",
+          "Longitude" : "114.2418778"
+        }
+      },
+      "Published" : "2018-09-11T17:09:29Z",
+      "Title" : "Dragon's Back",
+      "Updated" : "2018-09-11T17:09:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.1087732, 22.2263162 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6347582234825451422",
+      "Location" : {
+        "Address" : "Yung Shue Wan Main Street, Lamma Island, Hong Kong",
+        "Business Name" : "Yung Shue Wan Ferry Pier",
+        "Country Code" : "HK",
+        "Geo Coordinates" : {
+          "Latitude" : "22.2263162",
+          "Longitude" : "114.1087732"
+        }
+      },
+      "Published" : "2018-09-11T17:09:03Z",
+      "Title" : "Yung Shue Wan Ferry Pier",
+      "Updated" : "2018-09-11T17:09:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.064084, 22.439856 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Kat+Hing+Wai,+Hong+Kong&ftid=0x3403f758fc2df4c3:0x12169c28b3b39586",
+      "Location" : {
+        "Latitude" : "22.439856",
+        "Longitude" : "114.064084"
+      },
+      "Published" : "2018-09-11T15:38:34Z",
+      "Title" : "Kat Hing Wai, Hong Kong",
+      "Updated" : "2018-09-11T15:38:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ 14.4186600, 35.9531000 ],
       "type" : "Point"
     },
@@ -45,8 +724,8 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=7072447689139259600",
       "Location" : {
-        "Address" : "Hong Kong International Airport, 9 Cheong Tat Road, Chek Lap Kok Lantau Island, Hong Kong",
-        "Business Name" : "Regal Airport Hotel",
+        "Address" : "Hong Kong International Airport, Lantau Island, 9 Cheong Tat Road, Chek Lap Kok, Hong Kong",
+        "Business Name" : "Regal Airport Hotel Hong Kong",
         "Country Code" : "HK",
         "Geo Coordinates" : {
           "Latitude" : "22.3188350",
@@ -244,18 +923,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -0.1576601, 51.1567744 ],
+      "coordinates" : [ -0.1574118, 51.1568038 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=17504766089355090387",
       "Location" : {
-        "Address" : "South Terminal, Eastway, Gatwick RH6 0LL, United Kingdom",
+        "Address" : "South Terminal, Gatwick RH6 0LL, United Kingdom",
         "Business Name" : "Hilton London Gatwick Airport",
         "Country Code" : "GB",
         "Geo Coordinates" : {
-          "Latitude" : "51.1567744",
-          "Longitude" : "-0.1576601"
+          "Latitude" : "51.1568038",
+          "Longitude" : "-0.1574118"
         }
       },
       "Published" : "2017-05-30T05:45:05Z",
@@ -419,7 +1098,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=11876803642279274961",
       "Location" : {
         "Address" : "RS, 11000, Kraljice Natalije 27, Beograd 11000, Serbia",
-        "Business Name" : "Hotel Prag",
+        "Business Name" : "Kopernikus Hotel Prag Beograd",
         "Country Code" : "RS",
         "Geo Coordinates" : {
           "Latitude" : "44.8108410",
@@ -481,7 +1160,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=16717372523665850666",
       "Location" : {
-        "Address" : "8-2 Rang Nam Alley, Thanon Phaya Thai, Ratchathewi, กรุงเทพมหานคร 10400, Thailand",
+        "Address" : "8-2 Rang Nam Alley, Thanon Phaya Thai, Ratchathewi, Bangkok 10400, Thailand",
         "Business Name" : "Pullman Bangkok King Power",
         "Country Code" : "TH",
         "Geo Coordinates" : {

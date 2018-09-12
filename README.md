@@ -6,6 +6,6 @@ These tend to be places I have visited and would return to, but it's really just
 
 ## Dev notes
 
-* Google Takeaway export of Google Places
+* Google Takeout export of Google Places
 * Update the GitHub Gist with the contents of the geojson file
 * Embedded on a simple html page on Netlify
