@@ -2,13 +2,239 @@
   "type" : "FeatureCollection",
   "features" : [ {
     "geometry" : {
+      "coordinates" : [ 114.1424242, 22.4568016 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10394101719867883999",
+      "Location" : {
+        "Address" : "Hong Kong",
+        "Business Name" : "Lam Tsuen Wishing Tree",
+        "Country Code" : "HK",
+        "Geo Coordinates" : {
+          "Latitude" : "22.4568016",
+          "Longitude" : "114.1424242"
+        }
+      },
+      "Published" : "2018-09-27T11:33:20Z",
+      "Title" : "Lam Tsuen Wishing Tree",
+      "Updated" : "2018-09-27T11:33:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.212669, 22.220422 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Stanley,+Hong+Kong&ftid=0x3406aa13b09b9ca9:0x3c87bbc69bd981b0",
+      "Location" : {
+        "Latitude" : "22.220422",
+        "Longitude" : "114.212669"
+      },
+      "Published" : "2018-09-27T11:32:47Z",
+      "Title" : "Stanley, Hong Kong",
+      "Updated" : "2018-09-27T11:32:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.0283640, 22.2085170 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1163345401191888869",
+      "Location" : {
+        "Address" : "Hong Kong",
+        "Business Name" : "Cheung Chau Ferry Pier",
+        "Country Code" : "HK",
+        "Geo Coordinates" : {
+          "Latitude" : "22.2085170",
+          "Longitude" : "114.0283640"
+        }
+      },
+      "Published" : "2018-09-27T11:30:47Z",
+      "Title" : "Cheung Chau Ferry Pier",
+      "Updated" : "2018-09-27T11:30:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.6907125, 35.6856006 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3231512592087154070",
+      "Location" : {
+        "Address" : "3-7-1-2, 西新宿 東京都 163-1055, Japan",
+        "Business Name" : "Park Hyatt Tokyo",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6856006",
+          "Longitude" : "139.6907125"
+        }
+      },
+      "Published" : "2018-09-15T11:32:31Z",
+      "Title" : "Park Hyatt Tokyo",
+      "Updated" : "2018-09-15T11:32:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 55.2814607, 25.2619362 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8550643426022704229",
+      "Location" : {
+        "Address" : "Dubai - United Arab Emirates",
+        "Business Name" : "Queen Elizabeth 2",
+        "Country Code" : "AE",
+        "Geo Coordinates" : {
+          "Latitude" : "25.2619362",
+          "Longitude" : "55.2814607"
+        }
+      },
+      "Published" : "2018-09-15T11:11:45Z",
+      "Title" : "Queen Elizabeth 2",
+      "Updated" : "2018-09-15T11:11:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.4227140, -33.9086100 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16753746549939369084",
+      "Location" : {
+        "Address" : "Silo Square, V & A Waterfront, Cape Town, 8801, South Africa",
+        "Business Name" : "The Silo Hotel",
+        "Country Code" : "ZA",
+        "Geo Coordinates" : {
+          "Latitude" : "-33.9086100",
+          "Longitude" : "18.4227140"
+        }
+      },
+      "Published" : "2018-09-15T11:01:59Z",
+      "Title" : "The Silo Hotel",
+      "Updated" : "2018-09-15T11:01:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0675620, 51.5161480 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=424928110232044403",
+      "Location" : {
+        "Address" : "42 Adler Street, London E1 1EE, United Kingdom",
+        "Business Name" : "Qbic Hotel London City",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5161480",
+          "Longitude" : "-0.0675620"
+        }
+      },
+      "Published" : "2018-09-15T11:00:01Z",
+      "Title" : "Qbic Hotel London City",
+      "Updated" : "2018-09-15T11:00:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0954695, 51.5043668 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6292926334918181837",
+      "Location" : {
+        "Address" : "Arch 35a, 85a Southwark Bridge Road, London SE1 0NQ, United Kingdom",
+        "Business Name" : "Where The Pancakes Are",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5043668",
+          "Longitude" : "-0.0954695"
+        }
+      },
+      "Published" : "2018-09-15T10:59:12Z",
+      "Title" : "Where The Pancakes Are",
+      "Updated" : "2018-09-15T10:59:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.6270982, -64.2407823 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2183365463526894175",
+      "Location" : {
+        "Address" : "Base Marambio, Antarctica",
+        "Business Name" : "Base Marambio",
+        "Country Code" : "AQ",
+        "Geo Coordinates" : {
+          "Latitude" : "-64.2407823",
+          "Longitude" : "-56.6270982"
+        }
+      },
+      "Published" : "2018-09-15T10:56:57Z",
+      "Title" : "Base Marambio",
+      "Updated" : "2018-09-15T10:56:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 41.1283340, 42.8580550 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1339672017174688321",
+      "Location" : {
+        "Address" : "Georgia",
+        "Business Name" : "Babusheri Airport",
+        "Country Code" : "GE",
+        "Geo Coordinates" : {
+          "Latitude" : "42.8580550",
+          "Longitude" : "41.1283340"
+        }
+      },
+      "Published" : "2018-09-15T10:50:46Z",
+      "Title" : "Babusheri Airport",
+      "Updated" : "2018-09-15T10:50:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.0981670, 37.5111158 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4845295689137142680",
+      "Location" : {
+        "Address" : "240 Olympic-ro, Songpa-gu, Seoul, South Korea",
+        "Business Name" : "Lotte World",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5111158",
+          "Longitude" : "127.0981670"
+        }
+      },
+      "Published" : "2018-09-15T10:47:38Z",
+      "Title" : "Lotte World",
+      "Updated" : "2018-09-15T10:47:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ 54.6415610, 24.4285580 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=1068146055838553218",
       "Location" : {
-        "Address" : "Abu Dhabi International Airport,Opposite Terminals 1 & 3 - أبو ظبي - United Arab Emirates",
+        "Address" : "Abu Dhabi International Airport - Opposite Terminals 1 & 3 - أبو ظبي - United Arab Emirates",
         "Business Name" : "Premier Inn Abu Dhabi International Airport Hotel",
         "Country Code" : "AE",
         "Geo Coordinates" : {
@@ -377,7 +603,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=1508455092512465098",
       "Location" : {
         "Address" : "67 Flygfältsvägen, Jomala 22130, Åland Islands",
-        "Business Name" : "MAARIANHAMINAN LENTOASEMA",
+        "Business Name" : "Mariehamn Airport",
         "Country Code" : "AX",
         "Geo Coordinates" : {
           "Latitude" : "60.1248328",
