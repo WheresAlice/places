@@ -2,6 +2,64 @@
   "type" : "FeatureCollection",
   "features" : [ {
     "geometry" : {
+      "coordinates" : [ -123.1096419, 49.2802619 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9731709932153202348",
+      "Location" : {
+        "Address" : "556 Beatty Street, Vancouver, BC V6B 2L3, Canada",
+        "Business Name" : "Jam Cafe",
+        "Country Code" : "CA",
+        "Geo Coordinates" : {
+          "Latitude" : "49.2802619",
+          "Longitude" : "-123.1096419"
+        }
+      },
+      "Published" : "2018-10-21T13:48:50Z",
+      "Title" : "Jam Cafe",
+      "Updated" : "2018-10-21T13:48:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.150182, 22.283897 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Man+Mo+Temple,+124-126+Hollywood+Rd,+Tai+Ping+Shan,+Hong+Kong&ftid=0x3404007bfec0d107:0x3a3f84c00edc592a",
+      "Location" : {
+        "Latitude" : "22.283897",
+        "Longitude" : "114.150182"
+      },
+      "Published" : "2018-10-19T11:07:51Z",
+      "Title" : "Man Mo Temple, 124-126 Hollywood Rd, Tai Ping Shan, Hong Kong",
+      "Updated" : "2018-10-19T11:07:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 113.9745140, 22.5368180 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1010412345674798581",
+      "Location" : {
+        "Address" : "China",
+        "Business Name" : "Window of the World",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "22.5368180",
+          "Longitude" : "113.9745140"
+        }
+      },
+      "Published" : "2018-10-18T10:55:02Z",
+      "Title" : "Window of the World",
+      "Updated" : "2018-10-18T10:55:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ 114.1424242, 22.4568016 ],
       "type" : "Point"
     },
@@ -297,7 +355,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=3316238061328959562",
       "Location" : {
-        "Address" : "Flygets Hotellväg, 438 13 Landvetter, Sweden",
+        "Address" : "Flygets Hotellväg, 438 70 Landvetter, Sweden",
         "Business Name" : "Landvetter Airport Hotel",
         "Country Code" : "SE",
         "Geo Coordinates" : {
@@ -723,7 +781,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=5567377928216002191",
       "Location" : {
-        "Address" : "Axel Lunds veg 27, 4050 Sola, Norway",
+        "Address" : "Axel Lunds veg 27, 4055, Norway",
         "Business Name" : "Sola Strand Hotel",
         "Country Code" : "NO",
         "Geo Coordinates" : {
@@ -797,7 +855,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=7384593896371534562",
       "Location" : {
-        "Address" : "13 Shung Tak Street, Tai Po, Hong Kong",
+        "Address" : "Hong Kong, Tai Po, 香港大埔大埔墟崇德街13號",
         "Business Name" : "Hong Kong Railway Museum",
         "Country Code" : "HK",
         "Geo Coordinates" : {
@@ -887,22 +945,6 @@
       "Published" : "2018-09-11T17:09:03Z",
       "Title" : "Yung Shue Wan Ferry Pier",
       "Updated" : "2018-09-11T17:09:03Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ 114.064084, 22.439856 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?q=Kat+Hing+Wai,+Hong+Kong&ftid=0x3403f758fc2df4c3:0x12169c28b3b39586",
-      "Location" : {
-        "Latitude" : "22.439856",
-        "Longitude" : "114.064084"
-      },
-      "Published" : "2018-09-11T15:38:34Z",
-      "Title" : "Kat Hing Wai, Hong Kong",
-      "Updated" : "2018-09-11T15:38:34Z"
     },
     "type" : "Feature"
   }, {
@@ -1044,18 +1086,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -0.0988897, 51.3654548 ],
+      "coordinates" : [ -0.0988758, 51.3654741 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11387945812087264308",
       "Location" : {
-        "Address" : "67 South End, East Croydon, Croydon CR0 1BF, United Kingdom",
+        "Address" : "67 South End, Croydon CR0 1BF, United Kingdom",
         "Business Name" : "Abshar Restaurant",
         "Country Code" : "GB",
         "Geo Coordinates" : {
-          "Latitude" : "51.3654548",
-          "Longitude" : "-0.0988897"
+          "Latitude" : "51.3654741",
+          "Longitude" : "-0.0988758"
         }
       },
       "Published" : "2018-01-26T17:23:55Z",
@@ -1275,27 +1317,6 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 114.1681352, 22.3182384 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=14616188045506459607",
-      "Location" : {
-        "Address" : "555 Shanghai Street, Mong Kok, Hong Kong",
-        "Business Name" : "Cordis, Hong Kong",
-        "Country Code" : "HK",
-        "Geo Coordinates" : {
-          "Latitude" : "22.3182384",
-          "Longitude" : "114.1681352"
-        }
-      },
-      "Published" : "2016-12-25T08:09:07Z",
-      "Title" : "Cordis, Hong Kong at Langham Place",
-      "Updated" : "2016-12-25T08:09:07Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
       "coordinates" : [ 20.4618731, 44.8179670 ],
       "type" : "Point"
     },
@@ -1359,7 +1380,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 14.5147687, 46.0535999 ],
+      "coordinates" : [ 14.5147697, 46.0536007 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1369,8 +1390,8 @@
         "Business Name" : "Hotel Park Ljubljana - Urban & Green",
         "Country Code" : "SI",
         "Geo Coordinates" : {
-          "Latitude" : "46.0535999",
-          "Longitude" : "14.5147687"
+          "Latitude" : "46.0536007",
+          "Longitude" : "14.5147697"
         }
       },
       "Published" : "2016-09-23T20:07:55Z",
