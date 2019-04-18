@@ -2,6 +2,495 @@
   "type" : "FeatureCollection",
   "features" : [ {
     "geometry" : {
+      "coordinates" : [ 44.124167, 40.142750 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Metsamor,+Armenia&ftid=0x406aee90227b5e93:0x8aeaa375304f0ceb",
+      "Location" : {
+        "Latitude" : "40.142750",
+        "Longitude" : "44.124167"
+      },
+      "Published" : "2019-04-14T11:59:46Z",
+      "Title" : "Metsamor, Armenia",
+      "Updated" : "2019-04-14T11:59:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -90.2004140, 38.6336260 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14518554203779680772",
+      "Location" : {
+        "Address" : "750 North 16th Street, St. Louis, MO 63103, United States",
+        "Business Name" : "City Museum",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.6336260",
+          "Longitude" : "-90.2004140"
+        }
+      },
+      "Published" : "2019-04-14T09:12:59Z",
+      "Title" : "City Museum",
+      "Updated" : "2019-04-14T09:12:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 110.4756880, 29.0673240 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=313277820931665850",
+      "Location" : {
+        "Address" : "China, Hunan, Zhangjiajie, Yongding, 104 Country Road, 天门山索道站天门山旅游景区天门仙山",
+        "Business Name" : "Tianmen Fairy Mountain （North Gate）",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "29.0673240",
+          "Longitude" : "110.4756880"
+        }
+      },
+      "Published" : "2019-04-14T09:11:21Z",
+      "Title" : "Tianmen Fairy Mountain （North Gate）",
+      "Updated" : "2019-04-14T09:11:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 55.1403645, 25.0764024 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16883271056857764171",
+      "Location" : {
+        "Address" : "Dubai - United Arab Emirates",
+        "Business Name" : "XLine Dubai Marina",
+        "Country Code" : "AE",
+        "Geo Coordinates" : {
+          "Latitude" : "25.0764024",
+          "Longitude" : "55.1403645"
+        }
+      },
+      "Published" : "2019-04-14T09:10:11Z",
+      "Title" : "XLine Dubai Marina",
+      "Updated" : "2019-04-14T09:10:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.4323382, 34.6654420 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3892796888607511210",
+      "Location" : {
+        "Address" : "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "Business Name" : "Universal Studios Japan",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "34.6654420",
+          "Longitude" : "135.4323382"
+        }
+      },
+      "Published" : "2019-04-14T09:07:48Z",
+      "Title" : "Universal Studios Japan",
+      "Updated" : "2019-04-14T09:07:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.6368839, 35.4551881 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6095285919121239051",
+      "Location" : {
+        "Address" : "2 Chome-8-１ Shinko, Naka Ward, Yokohama, Kanagawa 231-0001, Japan",
+        "Business Name" : "Yokohama Cosmoworld",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.4551881",
+          "Longitude" : "139.6368839"
+        }
+      },
+      "Published" : "2019-04-14T09:07:28Z",
+      "Title" : "Yokohama Cosmoworld",
+      "Updated" : "2019-04-14T09:07:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 7.8581651, 46.5617436 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5882552970251064302",
+      "Location" : {
+        "Address" : "Schilthornbahn AG, 3825, Switzerland",
+        "Business Name" : "Thrill Walk, Birg",
+        "Country Code" : "CH",
+        "Geo Coordinates" : {
+          "Latitude" : "46.5617436",
+          "Longitude" : "7.8581651"
+        }
+      },
+      "Published" : "2019-04-14T09:05:16Z",
+      "Title" : "Thrill Walk, Birg",
+      "Updated" : "2019-04-14T09:05:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 108.571045, 27.896663 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mountain+Huashan,+Yinjiang,+Tongren,+China&ftid=0x369645ab26edc72b:0xa22429a444d263ea",
+      "Location" : {
+        "Latitude" : "27.896663",
+        "Longitude" : "108.571045"
+      },
+      "Published" : "2019-04-14T09:04:09Z",
+      "Title" : "Mountain Huashan, Yinjiang, Tongren, China",
+      "Updated" : "2019-04-14T09:04:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 128.5639178, 35.8534682 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4246643294420483873",
+      "Location" : {
+        "Address" : "200 Duryugongwon-ro, Dalseo-gu, Daegu, South Korea",
+        "Business Name" : "Eworld",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "35.8534682",
+          "Longitude" : "128.5639178"
+        }
+      },
+      "Published" : "2019-04-14T09:01:47Z",
+      "Title" : "Eworld",
+      "Updated" : "2019-04-14T09:01:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 120.6955240, 24.3230546 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8179768969200231337",
+      "Location" : {
+        "Address" : "No. 8, Furong Road, Houli District, Taichung City, Taiwan 42145",
+        "Business Name" : "LIHPAO Discovery Land",
+        "Country Code" : "TW",
+        "Geo Coordinates" : {
+          "Latitude" : "24.3230546",
+          "Longitude" : "120.6955240"
+        }
+      },
+      "Published" : "2019-04-14T08:59:20Z",
+      "Title" : "LIHPAO Discovery Land",
+      "Updated" : "2019-04-14T08:59:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 169.0289288, -45.0628630 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10071655761216404776",
+      "Location" : {
+        "Address" : "3170950, Gibbston 9371, New Zealand",
+        "Business Name" : "Nevis Bungy & Swing",
+        "Country Code" : "NZ",
+        "Geo Coordinates" : {
+          "Latitude" : "-45.0628630",
+          "Longitude" : "169.0289288"
+        }
+      },
+      "Published" : "2019-04-14T08:58:39Z",
+      "Title" : "Nevis Bungy & Swing",
+      "Updated" : "2019-04-14T08:58:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 138.7805511, 35.4869467 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5173000043195545392",
+      "Location" : {
+        "Address" : "5 Chome-6-1 Shinnishihara, Fujiyoshida, Yamanashi 403-0017, Japan",
+        "Business Name" : "Fuji-Q Highland",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.4869467",
+          "Longitude" : "138.7805511"
+        }
+      },
+      "Published" : "2019-04-14T08:56:53Z",
+      "Title" : "Fuji-Q Highland",
+      "Updated" : "2019-04-14T08:56:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 133.7975720, 34.4457830 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7871707363275866344",
+      "Location" : {
+        "Address" : "３０３−１ Shimotsuifukiage, Kurashiki, Okayama 711-0926, Japan",
+        "Business Name" : "Washuzan Highland",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "34.4457830",
+          "Longitude" : "133.7975720"
+        }
+      },
+      "Published" : "2019-04-14T08:56:22Z",
+      "Title" : "Washuzan Highland",
+      "Updated" : "2019-04-14T08:56:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 73.4719379, 19.9047251 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13628801374549992318",
+      "Location" : {
+        "Address" : "Nashik, Maharashtra 422001, India",
+        "Business Name" : "Harihar Fort",
+        "Country Code" : "IN",
+        "Geo Coordinates" : {
+          "Latitude" : "19.9047251",
+          "Longitude" : "73.4719379"
+        }
+      },
+      "Published" : "2019-04-14T08:55:35Z",
+      "Title" : "Harihar Fort",
+      "Updated" : "2019-04-14T08:55:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -78.4143660, -1.4134720 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5240632478041790807",
+      "Location" : {
+        "Address" : "Vía a Runtún, Baños de Agua Santa, Ecuador",
+        "Business Name" : "The Flight of the Condor",
+        "Country Code" : "EC",
+        "Geo Coordinates" : {
+          "Latitude" : "-1.4134720",
+          "Longitude" : "-78.4143660"
+        }
+      },
+      "Published" : "2019-04-14T08:54:17Z",
+      "Title" : "The Flight of the Condor",
+      "Updated" : "2019-04-14T08:54:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.0632250, 53.1691560 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3273598495911959727",
+      "Location" : {
+        "Address" : "Zip World Penrhyn Quarry, Bethesda LL57 4YG, United Kingdom",
+        "Business Name" : "Zip World Penrhyn Quarry",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "53.1691560",
+          "Longitude" : "-4.0632250"
+        }
+      },
+      "Published" : "2019-04-14T08:52:51Z",
+      "Title" : "Zip World Penrhyn Quarry",
+      "Updated" : "2019-04-14T08:52:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.1978533, 56.1366010 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1745023285357972963",
+      "Location" : {
+        "Address" : "Skovbrynet 5, 8000 Aarhus, Denmark",
+        "Business Name" : "Tivoli Friheden",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "56.1366010",
+          "Longitude" : "10.1978533"
+        }
+      },
+      "Published" : "2019-04-14T08:51:51Z",
+      "Title" : "Tivoli Friheden",
+      "Updated" : "2019-04-14T08:51:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.0002265, 33.8443038 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12578053818880503893",
+      "Location" : {
+        "Address" : "8039 Beach Boulevard, Buena Park, CA 90620, United States",
+        "Business Name" : "Knott's Berry Farm",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.8443038",
+          "Longitude" : "-118.0002265"
+        }
+      },
+      "Published" : "2019-04-14T08:50:52Z",
+      "Title" : "Knott's Berry Farm",
+      "Updated" : "2019-04-14T08:50:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 108.690278, 27.920278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Fanjing+Shan,+Yinjiang,+Tongren,+China&ftid=0x36964e188cce42db:0xb6332763e8a72a63",
+      "Location" : {
+        "Latitude" : "27.920278",
+        "Longitude" : "108.690278"
+      },
+      "Published" : "2019-04-11T22:08:20Z",
+      "Title" : "Fanjing Shan, Yinjiang, Tongren, China",
+      "Updated" : "2019-04-11T22:08:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 121.6549030, 31.1402110 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8842737462833996787",
+      "Location" : {
+        "Address" : "China, Shanghai, 申迪西路360号 邮政编码: 200122",
+        "Business Name" : "上海玩具总动员酒店",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "31.1402110",
+          "Longitude" : "121.6549030"
+        }
+      },
+      "Published" : "2019-03-20T13:21:49Z",
+      "Title" : "上海玩具总动员酒店",
+      "Updated" : "2019-03-20T13:21:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7004823, 35.6595009 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4613022407221097798",
+      "Location" : {
+        "Address" : "Unnamed Road, 2 Chome-2, ２ 道玄坂 渋谷区 東京都 150-0043, Japan",
+        "Business Name" : "Shibuya Crossing",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6595009",
+          "Longitude" : "139.7004823"
+        }
+      },
+      "Published" : "2019-03-14T01:08:18Z",
+      "Title" : "Shibuya Crossing",
+      "Updated" : "2019-03-14T01:08:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.8600021, 35.6411072 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1630475176606126355",
+      "Location" : {
+        "Address" : "6 Chome-2 Rinkaicho, Edogawa City, Tokyo 134-0086, Japan",
+        "Business Name" : "Kasai Rinkai Park",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6411072",
+          "Longitude" : "139.8600021"
+        }
+      },
+      "Published" : "2019-03-14T01:07:44Z",
+      "Title" : "Kasai Rinkai Park",
+      "Updated" : "2019-03-14T01:07:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7053991, 35.6685000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6876591736631732009",
+      "Location" : {
+        "Address" : "Japan, 〒150-0001 東京都渋谷区神宮前６−４−３",
+        "Business Name" : "Meiji-jingumae <Harajuku> Station",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6685000",
+          "Longitude" : "139.7053991"
+        }
+      },
+      "Published" : "2019-03-14T00:59:26Z",
+      "Title" : "Meiji-jingumae <Harajuku> Station",
+      "Updated" : "2019-03-14T00:59:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7718235, 35.6278435 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11241568063329765729",
+      "Location" : {
+        "Address" : "Japan, 〒135-0091 Tokyo, Minato City, Daiba, 1 Chome−4, 台場海浜公園内",
+        "Business Name" : "Odaiba Statue of Liberty Replica",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6278435",
+          "Longitude" : "139.7718235"
+        }
+      },
+      "Published" : "2019-03-14T00:55:22Z",
+      "Title" : "Odaiba Statue of Liberty",
+      "Updated" : "2019-03-14T00:55:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -123.1096419, 49.2802619 ],
       "type" : "Point"
     },
@@ -60,18 +549,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 114.1424242, 22.4568016 ],
+      "coordinates" : [ 114.1424556, 22.4567851 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=10394101719867883999",
       "Location" : {
-        "Address" : "Hong Kong",
+        "Address" : "Lam Tsuen Heung Kung Sho Road, Hong Kong",
         "Business Name" : "Lam Tsuen Wishing Tree",
         "Country Code" : "HK",
         "Geo Coordinates" : {
-          "Latitude" : "22.4568016",
-          "Longitude" : "114.1424242"
+          "Latitude" : "22.4567851",
+          "Longitude" : "114.1424556"
         }
       },
       "Published" : "2018-09-27T11:33:20Z",
@@ -97,7 +586,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 114.0283640, 22.2085170 ],
+      "coordinates" : [ 114.0283921, 22.2086133 ],
       "type" : "Point"
     },
     "properties" : {
@@ -107,8 +596,8 @@
         "Business Name" : "Cheung Chau Ferry Pier",
         "Country Code" : "HK",
         "Geo Coordinates" : {
-          "Latitude" : "22.2085170",
-          "Longitude" : "114.0283640"
+          "Latitude" : "22.2086133",
+          "Longitude" : "114.0283921"
         }
       },
       "Published" : "2018-09-27T11:30:47Z",
@@ -139,18 +628,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 55.2814607, 25.2619362 ],
+      "coordinates" : [ 55.2814875, 25.2618779 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=8550643426022704229",
       "Location" : {
-        "Address" : "Dubai - United Arab Emirates",
+        "Address" : "Port Rashid - Dubai - United Arab Emirates",
         "Business Name" : "Queen Elizabeth 2",
         "Country Code" : "AE",
         "Geo Coordinates" : {
-          "Latitude" : "25.2619362",
-          "Longitude" : "55.2814607"
+          "Latitude" : "25.2618779",
+          "Longitude" : "55.2814875"
         }
       },
       "Published" : "2018-09-15T11:11:45Z",
@@ -223,7 +712,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -56.6270982, -64.2407823 ],
+      "coordinates" : [ -56.6262411, -64.2419115 ],
       "type" : "Point"
     },
     "properties" : {
@@ -233,8 +722,8 @@
         "Business Name" : "Base Marambio",
         "Country Code" : "AQ",
         "Geo Coordinates" : {
-          "Latitude" : "-64.2407823",
-          "Longitude" : "-56.6270982"
+          "Latitude" : "-64.2419115",
+          "Longitude" : "-56.6262411"
         }
       },
       "Published" : "2018-09-15T10:56:57Z",
@@ -250,9 +739,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=1339672017174688321",
       "Location" : {
-        "Address" : "Georgia",
-        "Business Name" : "Babusheri Airport",
-        "Country Code" : "GE",
+        "Business Name" : "Sukhum Babushara Airport",
         "Geo Coordinates" : {
           "Latitude" : "42.8580550",
           "Longitude" : "41.1283340"
@@ -313,7 +800,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=18234409281205859866",
       "Location" : {
-        "Address" : "Disneyland Paris, Disney Village, 77700 Chessy, France",
+        "Address" : "Disney Village, 77700 Chessy, France",
         "Business Name" : "Annette's Diner",
         "Country Code" : "FR",
         "Geo Coordinates" : {
@@ -349,7 +836,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 12.3011036, 57.6689331 ],
+      "coordinates" : [ 12.3008139, 57.6687151 ],
       "type" : "Point"
     },
     "properties" : {
@@ -359,8 +846,8 @@
         "Business Name" : "Landvetter Airport Hotel",
         "Country Code" : "SE",
         "Geo Coordinates" : {
-          "Latitude" : "57.6689331",
-          "Longitude" : "12.3011036"
+          "Latitude" : "57.6687151",
+          "Longitude" : "12.3008139"
         }
       },
       "Published" : "2018-09-11T20:15:44Z",
@@ -398,7 +885,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=9123933771843294962",
       "Location" : {
         "Address" : "10 Bayfront Avenue, Singapore 018956",
-        "Business Name" : "Marina Bay Sands, Singapore",
+        "Business Name" : "Marina Bay Sands Singapore",
         "Country Code" : "SG",
         "Geo Coordinates" : {
           "Latitude" : "1.2833754",
@@ -849,7 +1336,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 114.1642789, 22.4476846 ],
+      "coordinates" : [ 114.1643324, 22.4475820 ],
       "type" : "Point"
     },
     "properties" : {
@@ -859,8 +1346,8 @@
         "Business Name" : "Hong Kong Railway Museum",
         "Country Code" : "HK",
         "Geo Coordinates" : {
-          "Latitude" : "22.4476846",
-          "Longitude" : "114.1642789"
+          "Latitude" : "22.4475820",
+          "Longitude" : "114.1643324"
         }
       },
       "Published" : "2018-09-11T17:12:55Z",
@@ -1013,7 +1500,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6973507436995967977",
       "Location" : {
-        "Address" : "1-8 Maihama, Urayasu, Chiba Prefecture 279-0031, Japan",
+        "Address" : "１−８ Maihama, Urayasu, Chiba 279-0031, Japan",
         "Business Name" : "Hilton Tokyo Bay",
         "Country Code" : "JP",
         "Geo Coordinates" : {
@@ -1128,7 +1615,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 10.3876630, 43.7245700 ],
+      "coordinates" : [ 10.3876599, 43.7246270 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1138,8 +1625,8 @@
         "Business Name" : "Rosso di Sera Relais Tuscany",
         "Country Code" : "IT",
         "Geo Coordinates" : {
-          "Latitude" : "43.7245700",
-          "Longitude" : "10.3876630"
+          "Latitude" : "43.7246270",
+          "Longitude" : "10.3876599"
         }
       },
       "Published" : "2017-10-06T12:50:58Z",
@@ -1156,7 +1643,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=1994452411317672679",
       "Location" : {
         "Address" : "Schönhauser Allee 36, 10435 Berlin, Germany",
-        "Business Name" : "KulturBrauerei",
+        "Business Name" : "Kulturbrauerei",
         "Country Code" : "DE",
         "Geo Coordinates" : {
           "Latitude" : "52.5392510",
@@ -1170,18 +1657,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 13.3258883, 52.5050001 ],
+      "coordinates" : [ 13.3258856, 52.5049770 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=10357961563698302285",
       "Location" : {
-        "Address" : "Uhlandstraße 188-189, 10623 Berlin, Germany",
+        "Address" : "Uhlandstraße 188/189, 10623 Berlin, Germany",
         "Business Name" : "Hampton by Hilton Berlin City West",
         "Country Code" : "DE",
         "Geo Coordinates" : {
-          "Latitude" : "52.5050001",
-          "Longitude" : "13.3258883"
+          "Latitude" : "52.5049770",
+          "Longitude" : "13.3258856"
         }
       },
       "Published" : "2017-06-10T08:34:13Z",
@@ -1191,7 +1678,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -0.1574118, 51.1568038 ],
+      "coordinates" : [ -0.1572297, 51.1567809 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1201,8 +1688,8 @@
         "Business Name" : "Hilton London Gatwick Airport",
         "Country Code" : "GB",
         "Geo Coordinates" : {
-          "Latitude" : "51.1568038",
-          "Longitude" : "-0.1574118"
+          "Latitude" : "51.1567809",
+          "Longitude" : "-0.1572297"
         }
       },
       "Published" : "2017-05-30T05:45:05Z",
@@ -1212,18 +1699,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -0.1628275, 51.1564848 ],
+      "coordinates" : [ -0.1625357, 51.1564120 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=2073109427796495014",
       "Location" : {
-        "Address" : "South Terminal, Perimeter Road East, Horley, Gatwick RH6 0NN, United Kingdom",
+        "Address" : "Perimeter Road East, Horley, Gatwick RH6 0NN, United Kingdom",
         "Business Name" : "BLOC",
         "Country Code" : "GB",
         "Geo Coordinates" : {
-          "Latitude" : "51.1564848",
-          "Longitude" : "-0.1628275"
+          "Latitude" : "51.1564120",
+          "Longitude" : "-0.1625357"
         }
       },
       "Published" : "2017-05-30T05:44:52Z",
@@ -1359,7 +1846,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 17.7985800, 43.3522170 ],
+      "coordinates" : [ 17.7987778, 43.3520510 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1369,8 +1856,8 @@
         "Business Name" : "City Hotel",
         "Country Code" : "BA",
         "Geo Coordinates" : {
-          "Latitude" : "43.3522170",
-          "Longitude" : "17.7985800"
+          "Latitude" : "43.3520510",
+          "Longitude" : "17.7987778"
         }
       },
       "Published" : "2016-09-30T05:13:32Z",
@@ -1455,22 +1942,6 @@
       "Published" : "2015-10-26T06:00:49Z",
       "Title" : "Safeer Hotel",
       "Updated" : "2015-10-26T06:00:49Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ 126.978825, 37.562050 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=17395286228320685886",
-      "Location" : {
-        "Latitude" : "37.562050",
-        "Longitude" : "126.978825"
-      },
-      "Published" : "2015-05-23T07:33:45Z",
-      "Title" : "Shinshin Hotel Myeongdong",
-      "Updated" : "2015-05-23T07:33:45Z"
     },
     "type" : "Feature"
   }, {
