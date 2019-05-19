@@ -2,6 +2,75 @@
   "type" : "FeatureCollection",
   "features" : [ {
     "geometry" : {
+      "coordinates" : [ 106.773292, 26.520663 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Unnamed+Road,+Nanming+Qu,+Guiyang+Shi,+Guizhou+Sheng,+China,+550001&ftid=0x36bf4260546490d9:0x8e1f4f461c8a88a2",
+      "Location" : {
+        "Latitude" : "26.520663",
+        "Longitude" : "106.773292"
+      },
+      "Published" : "2019-05-19T18:28:51Z",
+      "Title" : "Unnamed Road, Nanming Qu, Guiyang Shi, Guizhou Sheng, China, 550001",
+      "Updated" : "2019-05-19T18:28:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -105.9965202, 35.6546471 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9895253263373375600",
+      "Location" : {
+        "Address" : "1352 Rufina Circle, Santa Fe, NM 87507, United States",
+        "Business Name" : "Meow Wolf",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6546471",
+          "Longitude" : "-105.9965202"
+        }
+      },
+      "Published" : "2019-05-06T18:49:06Z",
+      "Title" : "Meow Wolf",
+      "Updated" : "2019-05-06T18:49:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.700482, 35.659501 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=35.659501,139.700482",
+      "Location" : {
+        "Latitude" : "35.659501",
+        "Longitude" : "139.700482"
+      },
+      "Published" : "2019-03-14T01:08:18Z",
+      "Title" : "35.659501,139.700482",
+      "Updated" : "2019-05-02T09:17:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 110.084789, 34.477861 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Huashan+Mountain,+Huayin,+Weinan,+China&ftid=0x367b6e83b35f95af:0xad3de29e144c21d6",
+      "Location" : {
+        "Latitude" : "34.477861",
+        "Longitude" : "110.084789"
+      },
+      "Published" : "2019-04-20T13:55:48Z",
+      "Title" : "Huashan Mountain, Huayin, Weinan, China",
+      "Updated" : "2019-04-20T13:55:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ 44.124167, 40.142750 ],
       "type" : "Point"
     },
@@ -45,7 +114,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=313277820931665850",
       "Location" : {
-        "Address" : "China, Hunan, Zhangjiajie, Yongding, 104 Country Road, 天门山索道站天门山旅游景区天门仙山",
+        "Address" : "China, Hunan, Zhangjiajie, Yongding, 104乡道天门山索道站天门山旅游景区天门仙山",
         "Business Name" : "Tianmen Fairy Mountain （North Gate）",
         "Country Code" : "CN",
         "Geo Coordinates" : {
@@ -108,7 +177,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6095285919121239051",
       "Location" : {
-        "Address" : "2 Chome-8-１ Shinko, Naka Ward, Yokohama, Kanagawa 231-0001, Japan",
+        "Address" : "2 Chome-8-1 Shinko, Naka Ward, Yokohama, Kanagawa 231-0001, Japan",
         "Business Name" : "Yokohama Cosmoworld",
         "Country Code" : "JP",
         "Geo Coordinates" : {
@@ -250,7 +319,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=7871707363275866344",
       "Location" : {
-        "Address" : "３０３−１ Shimotsuifukiage, Kurashiki, Okayama 711-0926, Japan",
+        "Address" : "303-1 Shimotsuifukiage, Kurashiki, Okayama 711-0926, Japan",
         "Business Name" : "Washuzan Highland",
         "Country Code" : "JP",
         "Geo Coordinates" : {
@@ -407,27 +476,6 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 139.7004823, 35.6595009 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=4613022407221097798",
-      "Location" : {
-        "Address" : "Unnamed Road, 2 Chome-2, ２ 道玄坂 渋谷区 東京都 150-0043, Japan",
-        "Business Name" : "Shibuya Crossing",
-        "Country Code" : "JP",
-        "Geo Coordinates" : {
-          "Latitude" : "35.6595009",
-          "Longitude" : "139.7004823"
-        }
-      },
-      "Published" : "2019-03-14T01:08:18Z",
-      "Title" : "Shibuya Crossing",
-      "Updated" : "2019-03-14T01:08:18Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
       "coordinates" : [ 139.8600021, 35.6411072 ],
       "type" : "Point"
     },
@@ -456,7 +504,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=6876591736631732009",
       "Location" : {
         "Address" : "Japan, 〒150-0001 東京都渋谷区神宮前６−４−３",
-        "Business Name" : "Meiji-jingumae <Harajuku> Station",
+        "Business Name" : "Meiji-jingumae ’Harajuku’ Sta.",
         "Country Code" : "JP",
         "Geo Coordinates" : {
           "Latitude" : "35.6685000",
@@ -634,7 +682,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=8550643426022704229",
       "Location" : {
-        "Address" : "Port Rashid - Dubai - United Arab Emirates",
+        "Address" : "Dubai - United Arab Emirates",
         "Business Name" : "Queen Elizabeth 2",
         "Country Code" : "AE",
         "Geo Coordinates" : {
@@ -1336,7 +1384,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 114.1643324, 22.4475820 ],
+      "coordinates" : [ 114.1643409, 22.4475932 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1346,8 +1394,8 @@
         "Business Name" : "Hong Kong Railway Museum",
         "Country Code" : "HK",
         "Geo Coordinates" : {
-          "Latitude" : "22.4475820",
-          "Longitude" : "114.1643324"
+          "Latitude" : "22.4475932",
+          "Longitude" : "114.1643409"
         }
       },
       "Published" : "2018-09-11T17:12:55Z",
@@ -1500,7 +1548,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6973507436995967977",
       "Location" : {
-        "Address" : "１−８ Maihama, Urayasu, Chiba 279-0031, Japan",
+        "Address" : "1-8 Maihama, Urayasu, Chiba 279-0031, Japan",
         "Business Name" : "Hilton Tokyo Bay",
         "Country Code" : "JP",
         "Geo Coordinates" : {
@@ -1748,7 +1796,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=13048180425165839088",
       "Location" : {
         "Address" : "51 Galaktion Tabidze Street, Kutaisi 4600, Georgia",
-        "Business Name" : "Boutique Hotel Argo",
+        "Business Name" : "სასტუმრო არგო",
         "Country Code" : "GE",
         "Geo Coordinates" : {
           "Latitude" : "42.2654780",
