@@ -19,4 +19,13 @@ fetch("/places.json")
         }).addTo(mymap);
     });
 
+fetch("/atlasobscura.json")
+    .then((resp) => resp.json())
+    .then(function (p) {
+        L.geoJSON(p, {
+            onEachFeature: onEachFeature
+        }).addTo(mymap);
+    });
+
+
 mymap.setView([35.5754390657896, 45.388114638626575], 2);
