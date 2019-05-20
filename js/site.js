@@ -1,7 +1,7 @@
 var mymap = L.map('mapid').fitWorld();
 
 var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-var osmAttrib = 'Map data Â© <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
+var osmAttrib = 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
 var osm = new L.TileLayer(osmUrl, {minZoom: 2, maxZoom: 12, attribution: osmAttrib});
 mymap.addLayer(osm);
 
@@ -10,7 +10,7 @@ legend.onAdd = function (map) {
 
     var div = L.DomUtil.create('div', 'info legend');
     div.innerHTML += '<i style="background: #00008B"></i> Visited<br>';
-    div.innerHTML += '<i style="background: DeepSkyBlue"></i> To Visit<br>';
+    div.innerHTML += '<i style="background: DeepSkyBlue"></i> Not Visited<br>';
     div.innerHTML += '<i style="background: PaleGreen"></i> Your Suggestions<br>';
     return div;
 };
