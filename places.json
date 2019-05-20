@@ -4,261 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Forbidden City"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.396804,
-          39.922456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mansu Hill Grand Monument"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.753995,
-          39.030527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "USS Pueblo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.740414,
-          39.040253
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kim Il-sung Square"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.75261,
-          39.019604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bran Castle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.367164,
-          45.514901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Stari Most"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.814846,
-          43.337101
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fortifications of Kotor"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.772436,
-          42.425715
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Plitvice Lakes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.611229,
-          44.878255
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Transnistria"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.633101,
-          46.845238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Milestii Mici"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.845552,
-          47.026128
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Welcome to Gagauzia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.740658,
-          46.415955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "York Solar System Trail"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.097997,
-          53.916332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "National Railway Museum"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.097911,
-          53.960551
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Whitby Abbey"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.607392,
-          54.488584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Saltburn Cliff Lift"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.970573,
-          54.586176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southport Pier"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.021271,
-          53.655247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "U-534"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.00926,
-          53.394127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Stebuklas Miracle Tile"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.286927,
-          54.68567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Hill of Crosses"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.416523,
-          56.015194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=31+Lugard+Rd,+The+Peak,+Hong+Kong&ftid=0x34040077d5352bd7:0xfff4043eabbc118e",
         "Location": {
           "Latitude": "22.277545",
           "Longitude": "114.144146"
         },
-        "Published": "2018-04-02T20:23:09Z",
-        "Title": "31 Lugard Rd, The Peak, Hong Kong",
-        "Updated": "2018-04-02T20:23:09Z",
         "name": "31 Lugard Rd, The Peak, Hong Kong"
       },
       "geometry": {
@@ -272,14 +21,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=35.5754390657896,45.388114638626575",
         "Location": {
           "Latitude": "35.575439",
           "Longitude": "45.388115"
         },
-        "Published": "2015-10-28T15:40:42Z",
-        "Title": "35.5754390657896,45.388114638626575",
-        "Updated": "2015-10-28T15:40:42Z",
         "name": "35.5754390657896,45.388114638626575"
       },
       "geometry": {
@@ -293,14 +38,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=35.659501,139.700482",
         "Location": {
           "Latitude": "35.659501",
           "Longitude": "139.700482"
         },
-        "Published": "2019-03-14T01:08:18Z",
-        "Title": "35.659501,139.700482",
-        "Updated": "2019-05-02T09:17:06Z",
         "name": "35.659501,139.700482"
       },
       "geometry": {
@@ -314,14 +55,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=54.18857981310714,-2.862571142613888",
         "Location": {
           "Latitude": "54.188580",
           "Longitude": "-2.862571"
         },
-        "Published": "2018-09-11T18:43:58Z",
-        "Title": "54.18857981310714,-2.862571142613888",
-        "Updated": "2018-09-11T18:43:58Z",
         "name": "54.18857981310714,-2.862571142613888"
       },
       "geometry": {
@@ -335,14 +72,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=55.385629642815275,-1.6130731254816055",
         "Location": {
           "Latitude": "55.385630",
           "Longitude": "-1.613073"
         },
-        "Published": "2018-09-11T18:19:01Z",
-        "Title": "55.385629642815275,-1.6130731254816055",
-        "Updated": "2018-09-11T18:19:01Z",
         "name": "55.385629642815275,-1.6130731254816055"
       },
       "geometry": {
@@ -356,14 +89,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=60.10252726885052,19.92492612451315",
         "Location": {
           "Latitude": "60.102527",
           "Longitude": "19.924926"
         },
-        "Published": "2018-09-11T19:55:08Z",
-        "Title": "60.10252726885052,19.92492612451315",
-        "Updated": "2018-09-11T19:55:08Z",
         "name": "60.10252726885052,19.92492612451315"
       },
       "geometry": {
@@ -390,7 +119,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Abandoned Iraqi Embassy"
+        "name": "Abandoned Iraqi Embassy",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -403,7 +135,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=9245173764239642128",
         "Location": {
           "Address": "603, Stórholt 1, Akureyri, Iceland",
           "Business Name": "Akureyri HI Hostel",
@@ -413,9 +144,6 @@
             "Longitude": "-18.1061726"
           }
         },
-        "Published": "2018-09-11T20:18:23Z",
-        "Title": "Akureyri HI Hostel",
-        "Updated": "2018-09-11T20:18:23Z",
         "name": "Akureyri HI Hostel"
       },
       "geometry": {
@@ -429,7 +157,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=18234409281205859866",
         "Location": {
           "Address": "Disney Village, 77700 Chessy, France",
           "Business Name": "Annette's Diner",
@@ -439,9 +166,6 @@
             "Longitude": "2.7836475"
           }
         },
-        "Published": "2018-09-11T20:23:29Z",
-        "Title": "Annette's Diner",
-        "Updated": "2018-09-11T20:23:29Z",
         "name": "Annette's Diner"
       },
       "geometry": {
@@ -468,7 +192,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=1339672017174688321",
         "Location": {
           "Business Name": "Sukhum Babushara Airport",
           "Geo Coordinates": {
@@ -476,9 +199,6 @@
             "Longitude": "41.1283340"
           }
         },
-        "Published": "2018-09-15T10:50:46Z",
-        "Title": "Babusheri Airport",
-        "Updated": "2018-09-15T10:50:46Z",
         "name": "Babusheri Airport"
       },
       "geometry": {
@@ -492,7 +212,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bailong Elevator"
+        "name": "Bailong Elevator",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -505,7 +228,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=2183365463526894175",
         "Location": {
           "Address": "Base Marambio, Antarctica",
           "Business Name": "Base Marambio",
@@ -515,10 +237,10 @@
             "Longitude": "-56.6262411"
           }
         },
-        "Published": "2018-09-15T10:56:57Z",
-        "Title": "Base Marambio",
-        "Updated": "2018-09-15T10:56:57Z",
-        "name": "Base Marambio"
+        "name": "Base Marambio",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -544,7 +266,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=8808047001036717226",
         "Location": {
           "Address": "Hauptbahnhof, Europaplatz 1, 10557 Berlin, Germany",
           "Business Name": "Berlin Central Station",
@@ -554,9 +275,6 @@
             "Longitude": "13.3694020"
           }
         },
-        "Published": "2018-09-11T19:52:15Z",
-        "Title": "Berlin Central Station",
-        "Updated": "2018-09-11T19:52:15Z",
         "name": "Berlin Central Station"
       },
       "geometry": {
@@ -583,7 +301,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=2073109427796495014",
         "Location": {
           "Address": "Perimeter Road East, Horley, Gatwick RH6 0NN, United Kingdom",
           "Business Name": "BLOC",
@@ -593,9 +310,6 @@
             "Longitude": "-0.1625357"
           }
         },
-        "Published": "2017-05-30T05:44:52Z",
-        "Title": "BLOC Hotel Gatwick",
-        "Updated": "2017-05-30T05:44:52Z",
         "name": "BLOC Hotel Gatwick"
       },
       "geometry": {
@@ -609,7 +323,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=13048180425165839088",
         "Location": {
           "Address": "51 Galaktion Tabidze Street, Kutaisi 4600, Georgia",
           "Business Name": "სასტუმრო არგო",
@@ -619,9 +332,6 @@
             "Longitude": "42.6988131"
           }
         },
-        "Published": "2017-05-21T02:31:16Z",
-        "Title": "Boutique Hotel Argo",
-        "Updated": "2017-05-21T02:31:16Z",
         "name": "Boutique Hotel Argo"
       },
       "geometry": {
@@ -629,6 +339,19 @@
         "coordinates": [
           42.698813,
           42.265478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bran Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.367164,
+          45.514901
         ]
       }
     },
@@ -648,7 +371,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=1163345401191888869",
         "Location": {
           "Address": "Hong Kong",
           "Business Name": "Cheung Chau Ferry Pier",
@@ -658,9 +380,6 @@
             "Longitude": "114.0283921"
           }
         },
-        "Published": "2018-09-27T11:30:47Z",
-        "Title": "Cheung Chau Ferry Pier",
-        "Updated": "2018-09-27T11:30:47Z",
         "name": "Cheung Chau Ferry Pier"
       },
       "geometry": {
@@ -674,7 +393,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Churchill War Rooms"
+        "name": "Churchill War Rooms",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -687,7 +409,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=5133105298252390367",
         "Location": {
           "Address": "Vukovarska, Mostar 88000, Bosnia & Herzegovina",
           "Business Name": "City Hotel",
@@ -697,9 +418,6 @@
             "Longitude": "17.7987778"
           }
         },
-        "Published": "2016-09-30T05:13:32Z",
-        "Title": "City Hotel",
-        "Updated": "2016-09-30T05:13:32Z",
         "name": "City Hotel"
       },
       "geometry": {
@@ -713,7 +431,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=14518554203779680772",
         "Location": {
           "Address": "750 North 16th Street, St. Louis, MO 63103, United States",
           "Business Name": "City Museum",
@@ -723,10 +440,10 @@
             "Longitude": "-90.2004140"
           }
         },
-        "Published": "2019-04-14T09:12:59Z",
-        "Title": "City Museum",
-        "Updated": "2019-04-14T09:12:59Z",
-        "name": "City Museum"
+        "name": "City Museum",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -752,7 +469,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=4457835258960205488",
         "Location": {
           "Address": "Triq it-Turisti, Saint Paul's Bay SPB 1024, Malta",
           "Business Name": "db San Antonio Hotel + Spa",
@@ -762,9 +478,6 @@
             "Longitude": "14.4186600"
           }
         },
-        "Published": "2018-05-17T08:00:51Z",
-        "Title": "db San Antonio Hotel + Spa",
-        "Updated": "2018-05-17T08:00:51Z",
         "name": "db San Antonio Hotel + Spa"
       },
       "geometry": {
@@ -778,7 +491,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=11449882473555981466",
         "Location": {
           "Address": "China",
           "Business Name": "Disney",
@@ -788,9 +500,6 @@
             "Longitude": "121.6681620"
           }
         },
-        "Published": "2018-05-17T07:56:53Z",
-        "Title": "Disney",
-        "Updated": "2018-05-17T07:56:53Z",
         "name": "Disney"
       },
       "geometry": {
@@ -804,7 +513,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dragon Escalator"
+        "name": "Dragon Escalator",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -817,7 +529,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=4351270667002485668",
         "Location": {
           "Address": "Hong Kong Trail Sec. 8, Shek O, Hong Kong",
           "Business Name": "Dragon's Back",
@@ -827,9 +538,6 @@
             "Longitude": "114.2418778"
           }
         },
-        "Published": "2018-09-11T17:09:29Z",
-        "Title": "Dragon's Back",
-        "Updated": "2018-09-11T17:09:29Z",
         "name": "Dragon's Back"
       },
       "geometry": {
@@ -843,7 +551,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=4246643294420483873",
         "Location": {
           "Address": "200 Duryugongwon-ro, Dalseo-gu, Daegu, South Korea",
           "Business Name": "Eworld",
@@ -853,10 +560,10 @@
             "Longitude": "128.5639178"
           }
         },
-        "Published": "2019-04-14T09:01:47Z",
-        "Title": "Eworld",
-        "Updated": "2019-04-14T09:01:47Z",
-        "name": "Eworld"
+        "name": "Eworld",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -869,7 +576,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=7245204444367809560",
         "Location": {
           "Address": "Hong Kong, 廸士尼公園大嶼山 香港迪士尼樂園迷離莊園",
           "Business Name": "Explorer's Club Restaurant",
@@ -879,9 +585,6 @@
             "Longitude": "114.0404563"
           }
         },
-        "Published": "2018-09-11T17:10:37Z",
-        "Title": "Explorer's Club Restaurant",
-        "Updated": "2018-09-11T17:10:37Z",
         "name": "Explorer's Club Restaurant"
       },
       "geometry": {
@@ -895,15 +598,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=Fanjing+Shan,+Yinjiang,+Tongren,+China&ftid=0x36964e188cce42db:0xb6332763e8a72a63",
         "Location": {
           "Latitude": "27.920278",
           "Longitude": "108.690278"
         },
-        "Published": "2019-04-11T22:08:20Z",
-        "Title": "Fanjing Shan, Yinjiang, Tongren, China",
-        "Updated": "2019-04-11T22:08:20Z",
-        "name": "Fanjing Shan, Yinjiang, Tongren, China"
+        "name": "Fanjing Shan, Yinjiang, Tongren, China",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -916,7 +618,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=4923718052932037335",
+        "name": "Forbidden City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.396804,
+          39.922456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Birgu Waterfront, Birgu, Malta",
           "Business Name": "Fort St. Angelo",
@@ -926,9 +640,6 @@
             "Longitude": "14.5178390"
           }
         },
-        "Published": "2018-09-11T19:59:20Z",
-        "Title": "Fort St. Angelo",
-        "Updated": "2018-09-11T19:59:20Z",
         "name": "Fort St. Angelo"
       },
       "geometry": {
@@ -942,7 +653,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=5173000043195545392",
+        "name": "Fortifications of Kotor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.772436,
+          42.425715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "5 Chome-6-1 Shinnishihara, Fujiyoshida, Yamanashi 403-0017, Japan",
           "Business Name": "Fuji-Q Highland",
@@ -952,10 +675,10 @@
             "Longitude": "138.7805511"
           }
         },
-        "Published": "2019-04-14T08:56:53Z",
-        "Title": "Fuji-Q Highland",
-        "Updated": "2019-04-14T08:56:53Z",
-        "name": "Fuji-Q Highland"
+        "name": "Fuji-Q Highland",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -968,7 +691,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=10357961563698302285",
         "Location": {
           "Address": "Uhlandstraße 188/189, 10623 Berlin, Germany",
           "Business Name": "Hampton by Hilton Berlin City West",
@@ -978,9 +700,6 @@
             "Longitude": "13.3258856"
           }
         },
-        "Published": "2017-06-10T08:34:13Z",
-        "Title": "Hampton by Hilton Berlin City West",
-        "Updated": "2017-06-10T08:34:13Z",
         "name": "Hampton by Hilton Berlin City West"
       },
       "geometry": {
@@ -994,7 +713,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=1778215124559515443",
         "Location": {
           "Address": "30 Dingwall Road, Croydon CR0 2NB, United Kingdom",
           "Business Name": "Hampton by Hilton London Croydon",
@@ -1004,9 +722,6 @@
             "Longitude": "-0.0960520"
           }
         },
-        "Published": "2018-01-26T17:22:45Z",
-        "Title": "Hampton by Hilton London Croydon",
-        "Updated": "2018-01-26T17:22:45Z",
         "name": "Hampton by Hilton London Croydon"
       },
       "geometry": {
@@ -1020,7 +735,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Harbin Ice Festival"
+        "name": "Harbin Ice Festival",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -1033,7 +751,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=13628801374549992318",
         "Location": {
           "Address": "Nashik, Maharashtra 422001, India",
           "Business Name": "Harihar Fort",
@@ -1043,10 +760,10 @@
             "Longitude": "73.4719379"
           }
         },
-        "Published": "2019-04-14T08:55:35Z",
-        "Title": "Harihar Fort",
-        "Updated": "2019-04-14T08:55:35Z",
-        "name": "Harihar Fort"
+        "name": "Harihar Fort",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -1059,7 +776,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=6973507436995967977",
+        "name": "Hill of Crosses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.416523,
+          56.015194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "1-8 Maihama, Urayasu, Chiba 279-0031, Japan",
           "Business Name": "Hilton Tokyo Bay",
@@ -1069,9 +798,6 @@
             "Longitude": "139.8737478"
           }
         },
-        "Published": "2018-05-17T07:58:16Z",
-        "Title": "Hilton Tokyo Bay",
-        "Updated": "2018-05-17T07:58:16Z",
         "name": "Hilton Tokyo Bay"
       },
       "geometry": {
@@ -1085,14 +811,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=Hong+Kong+Disneyland+Resort,+Hong+Kong&ftid=0x3403fc28a365b609:0xd2c28e5aa2b5ba00",
         "Location": {
           "Latitude": "22.315412",
           "Longitude": "114.039881"
         },
-        "Published": "2018-09-11T17:10:12Z",
-        "Title": "Hong Kong Disneyland Resort, Hong Kong",
-        "Updated": "2018-09-11T17:10:12Z",
         "name": "Hong Kong Disneyland Resort, Hong Kong"
       },
       "geometry": {
@@ -1106,7 +828,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=7384593896371534562",
         "Location": {
           "Address": "Hong Kong, Tai Po, 香港大埔大埔墟崇德街13號",
           "Business Name": "Hong Kong Railway Museum",
@@ -1116,9 +837,6 @@
             "Longitude": "114.1643409"
           }
         },
-        "Published": "2018-09-11T17:12:55Z",
-        "Title": "Hong Kong Railway Museum",
-        "Updated": "2018-09-11T17:12:55Z",
         "name": "Hong Kong Railway Museum"
       },
       "geometry": {
@@ -1132,7 +850,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=14837610156166395809",
         "Location": {
           "Address": "Emperor Way, Crewe CW1 6BD, United Kingdom",
           "Business Name": "Hotel ibis Styles Crewe",
@@ -1142,9 +859,6 @@
             "Longitude": "-2.4197335"
           }
         },
-        "Published": "2017-03-31T12:14:39Z",
-        "Title": "Hotel ibis Styles",
-        "Updated": "2017-03-31T12:14:39Z",
         "name": "Hotel ibis Styles"
       },
       "geometry": {
@@ -1158,7 +872,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=18174893869204677819",
         "Location": {
           "Address": "122 Middle Road, Singapore 188973",
           "Business Name": "Mercure Singapore Bugis",
@@ -1168,9 +881,6 @@
             "Longitude": "103.8531040"
           }
         },
-        "Published": "2017-03-21T14:38:56Z",
-        "Title": "Hotel Mercure Singapore Bugis",
-        "Updated": "2017-03-21T14:38:56Z",
         "name": "Hotel Mercure Singapore Bugis"
       },
       "geometry": {
@@ -1184,7 +894,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=14107483882217788407",
         "Location": {
           "Address": "Tabor 9, 1000 Ljubljana, Slovenia",
           "Business Name": "Hotel Park Ljubljana - Urban & Green",
@@ -1194,9 +903,6 @@
             "Longitude": "14.5147697"
           }
         },
-        "Published": "2016-09-23T20:07:55Z",
-        "Title": "Hotel Park Ljubljana - Urban & Green",
-        "Updated": "2016-09-23T20:07:55Z",
         "name": "Hotel Park Ljubljana - Urban & Green"
       },
       "geometry": {
@@ -1210,7 +916,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=11876803642279274961",
         "Location": {
           "Address": "RS, 11000, Kraljice Natalije 27, Beograd 11000, Serbia",
           "Business Name": "Kopernikus Hotel Prag Beograd",
@@ -1220,9 +925,6 @@
             "Longitude": "20.4597720"
           }
         },
-        "Published": "2016-10-02T06:37:21Z",
-        "Title": "Hotel Prag",
-        "Updated": "2016-10-02T06:37:21Z",
         "name": "Hotel Prag"
       },
       "geometry": {
@@ -1236,7 +938,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=16717372523665850666",
         "Location": {
           "Address": "8-2 Rang Nam Alley, Thanon Phaya Thai, Ratchathewi, Bangkok 10400, Thailand",
           "Business Name": "Pullman Bangkok King Power",
@@ -1246,9 +947,6 @@
             "Longitude": "100.5374340"
           }
         },
-        "Published": "2015-12-23T19:48:36Z",
-        "Title": "Hotel Pullman Bangkok King Power",
-        "Updated": "2015-12-23T19:48:36Z",
         "name": "Hotel Pullman Bangkok King Power"
       },
       "geometry": {
@@ -1262,15 +960,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=Huashan+Mountain,+Huayin,+Weinan,+China&ftid=0x367b6e83b35f95af:0xad3de29e144c21d6",
         "Location": {
           "Latitude": "34.477861",
           "Longitude": "110.084789"
         },
-        "Published": "2019-04-20T13:55:48Z",
-        "Title": "Huashan Mountain, Huayin, Weinan, China",
-        "Updated": "2019-04-20T13:55:48Z",
-        "name": "Huashan Mountain, Huayin, Weinan, China"
+        "name": "Huashan Mountain, Huayin, Weinan, China",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -1283,7 +980,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=8038763497285617055",
         "Location": {
           "Address": "Triq Il-Palazz Ta' L-Isqof, Birgu BRG 1023, Malta",
           "Business Name": "Inquisitor's Palace",
@@ -1293,9 +989,6 @@
             "Longitude": "14.5224600"
           }
         },
-        "Published": "2018-09-11T20:06:21Z",
-        "Title": "Inquisitor's Palace",
-        "Updated": "2018-09-11T20:06:21Z",
         "name": "Inquisitor's Palace"
       },
       "geometry": {
@@ -1309,7 +1002,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=9731709932153202348",
         "Location": {
           "Address": "556 Beatty Street, Vancouver, BC V6B 2L3, Canada",
           "Business Name": "Jam Cafe",
@@ -1319,9 +1011,6 @@
             "Longitude": "-123.1096419"
           }
         },
-        "Published": "2018-10-21T13:48:50Z",
-        "Title": "Jam Cafe",
-        "Updated": "2018-10-21T13:48:50Z",
         "name": "Jam Cafe"
       },
       "geometry": {
@@ -1335,7 +1024,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=17175557875801282855",
         "Location": {
           "Address": "399 Nanjing West Road, Huangpu, Shanghai, China, 200003",
           "Business Name": "JW Marriott Hotel Shanghai at Tomorrow Square",
@@ -1345,9 +1033,6 @@
             "Longitude": "121.4698860"
           }
         },
-        "Published": "2018-05-05T09:26:53Z",
-        "Title": "JW Marriott Hotel Shanghai at Tomorrow Square",
-        "Updated": "2018-05-05T09:26:53Z",
         "name": "JW Marriott Hotel Shanghai at Tomorrow Square"
       },
       "geometry": {
@@ -1361,7 +1046,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=1630475176606126355",
         "Location": {
           "Address": "6 Chome-2 Rinkaicho, Edogawa City, Tokyo 134-0086, Japan",
           "Business Name": "Kasai Rinkai Park",
@@ -1371,9 +1055,6 @@
             "Longitude": "139.8600021"
           }
         },
-        "Published": "2019-03-14T01:07:44Z",
-        "Title": "Kasai Rinkai Park",
-        "Updated": "2019-03-14T01:07:44Z",
         "name": "Kasai Rinkai Park"
       },
       "geometry": {
@@ -1387,7 +1068,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=12578053818880503893",
+        "name": "Kim Il-sung Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.75261,
+          39.019604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "8039 Beach Boulevard, Buena Park, CA 90620, United States",
           "Business Name": "Knott's Berry Farm",
@@ -1397,10 +1090,10 @@
             "Longitude": "-118.0002265"
           }
         },
-        "Published": "2019-04-14T08:50:52Z",
-        "Title": "Knott's Berry Farm",
-        "Updated": "2019-04-14T08:50:52Z",
-        "name": "Knott's Berry Farm"
+        "name": "Knott's Berry Farm",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -1413,7 +1106,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=1994452411317672679",
         "Location": {
           "Address": "Schönhauser Allee 36, 10435 Berlin, Germany",
           "Business Name": "Kulturbrauerei",
@@ -1423,9 +1115,6 @@
             "Longitude": "13.4135533"
           }
         },
-        "Published": "2017-06-10T15:01:27Z",
-        "Title": "KulturBrauerei",
-        "Updated": "2017-06-10T15:01:27Z",
         "name": "KulturBrauerei"
       },
       "geometry": {
@@ -1439,7 +1128,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=10394101719867883999",
         "Location": {
           "Address": "Lam Tsuen Heung Kung Sho Road, Hong Kong",
           "Business Name": "Lam Tsuen Wishing Tree",
@@ -1449,9 +1137,6 @@
             "Longitude": "114.1424556"
           }
         },
-        "Published": "2018-09-27T11:33:20Z",
-        "Title": "Lam Tsuen Wishing Tree",
-        "Updated": "2018-09-27T11:33:20Z",
         "name": "Lam Tsuen Wishing Tree"
       },
       "geometry": {
@@ -1465,7 +1150,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=3316238061328959562",
         "Location": {
           "Address": "Flygets Hotellväg, 438 70 Landvetter, Sweden",
           "Business Name": "Landvetter Airport Hotel",
@@ -1475,9 +1159,6 @@
             "Longitude": "12.3008139"
           }
         },
-        "Published": "2018-09-11T20:15:44Z",
-        "Title": "Landvetter Airport Hotel",
-        "Updated": "2018-09-11T20:15:44Z",
         "name": "Landvetter Airport Hotel"
       },
       "geometry": {
@@ -1491,7 +1172,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=3669494377653533699",
         "Location": {
           "Address": "Piazza del Duomo, 56126 Pisa PI, Italy",
           "Business Name": "Leaning Tower of Pisa",
@@ -1501,9 +1181,6 @@
             "Longitude": "10.3965970"
           }
         },
-        "Published": "2018-09-11T19:57:05Z",
-        "Title": "Leaning Tower of Pisa",
-        "Updated": "2018-09-11T19:57:05Z",
         "name": "Leaning Tower of Pisa"
       },
       "geometry": {
@@ -1517,7 +1194,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=9270543262023233128",
         "Location": {
           "Address": "улица Читанава, Sokhumi, Georgia",
           "Business Name": "Leon Boutique Hotel",
@@ -1527,9 +1203,6 @@
             "Longitude": "41.0315754"
           }
         },
-        "Published": "2017-05-21T02:31:30Z",
-        "Title": "Leon Boutique Hotel",
-        "Updated": "2017-05-21T02:31:30Z",
         "name": "Leon Boutique Hotel"
       },
       "geometry": {
@@ -1543,7 +1216,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=8179768969200231337",
         "Location": {
           "Address": "No. 8, Furong Road, Houli District, Taichung City, Taiwan 42145",
           "Business Name": "LIHPAO Discovery Land",
@@ -1553,10 +1225,10 @@
             "Longitude": "120.6955240"
           }
         },
-        "Published": "2019-04-14T08:59:20Z",
-        "Title": "LIHPAO Discovery Land",
-        "Updated": "2019-04-14T08:59:20Z",
-        "name": "LIHPAO Discovery Land"
+        "name": "LIHPAO Discovery Land",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -1569,7 +1241,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=6454400033252444218",
         "Location": {
           "Address": "Tivolikuja 1, 00510 Helsinki, Finland",
           "Business Name": "Linnanmaki",
@@ -1579,9 +1250,6 @@
             "Longitude": "24.9404303"
           }
         },
-        "Published": "2018-09-11T19:56:11Z",
-        "Title": "Linnanmaki",
-        "Updated": "2018-09-11T19:56:11Z",
         "name": "Linnanmaki"
       },
       "geometry": {
@@ -1595,7 +1263,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=13422506492308534883",
         "Location": {
           "Address": "Dositejeva 9a, Beograd 11000, Serbia",
           "Business Name": "Little Bay",
@@ -1605,9 +1272,6 @@
             "Longitude": "20.4618731"
           }
         },
-        "Published": "2016-10-02T20:57:34Z",
-        "Title": "Little Bay D.O.O. Beograd",
-        "Updated": "2016-10-02T20:57:34Z",
         "name": "Little Bay D.O.O. Beograd"
       },
       "geometry": {
@@ -1621,7 +1285,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=4845295689137142680",
         "Location": {
           "Address": "240 Olympic-ro, Songpa-gu, Seoul, South Korea",
           "Business Name": "Lotte World",
@@ -1631,9 +1294,6 @@
             "Longitude": "127.0981670"
           }
         },
-        "Published": "2018-09-15T10:47:38Z",
-        "Title": "Lotte World",
-        "Updated": "2018-09-15T10:47:38Z",
         "name": "Lotte World"
       },
       "geometry": {
@@ -1647,7 +1307,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=1508455092512465098",
         "Location": {
           "Address": "67 Flygfältsvägen, Jomala 22130, Åland Islands",
           "Business Name": "Mariehamn Airport",
@@ -1657,9 +1316,6 @@
             "Longitude": "19.9074777"
           }
         },
-        "Published": "2018-09-11T19:55:19Z",
-        "Title": "MAARIANHAMINAN LENTOASEMA",
-        "Updated": "2018-09-11T19:55:19Z",
         "name": "MAARIANHAMINAN LENTOASEMA"
       },
       "geometry": {
@@ -1673,7 +1329,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=15621788687234029009",
         "Location": {
           "Address": "Attard, Malta",
           "Business Name": "Malta Aviation Museum",
@@ -1683,9 +1338,6 @@
             "Longitude": "14.4163263"
           }
         },
-        "Published": "2018-09-11T19:57:27Z",
-        "Title": "Malta Aviation Museum",
-        "Updated": "2018-09-11T19:57:27Z",
         "name": "Malta Aviation Museum"
       },
       "geometry": {
@@ -1699,7 +1351,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=3792538105576777782",
         "Location": {
           "Address": "Ex-Naval Bakery Vittoriosa Waterfront, Birgu BRG 1721, Malta",
           "Business Name": "Malta Maritime Museum",
@@ -1709,9 +1360,6 @@
             "Longitude": "14.5206800"
           }
         },
-        "Published": "2018-09-11T20:03:10Z",
-        "Title": "Malta Maritime Museum",
-        "Updated": "2018-09-11T20:03:10Z",
         "name": "Malta Maritime Museum"
       },
       "geometry": {
@@ -1725,14 +1373,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=Man+Mo+Temple,+124-126+Hollywood+Rd,+Tai+Ping+Shan,+Hong+Kong&ftid=0x3404007bfec0d107:0x3a3f84c00edc592a",
         "Location": {
           "Latitude": "22.283897",
           "Longitude": "114.150182"
         },
-        "Published": "2018-10-19T11:07:51Z",
-        "Title": "Man Mo Temple, 124-126 Hollywood Rd, Tai Ping Shan, Hong Kong",
-        "Updated": "2018-10-19T11:07:51Z",
         "name": "Man Mo Temple, 124-126 Hollywood Rd, Tai Ping Shan, Hong Kong"
       },
       "geometry": {
@@ -1746,7 +1390,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=9123933771843294962",
+        "name": "Mansu Hill Grand Monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.753995,
+          39.030527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "10 Bayfront Avenue, Singapore 018956",
           "Business Name": "Marina Bay Sands Singapore",
@@ -1756,9 +1412,6 @@
             "Longitude": "103.8607264"
           }
         },
-        "Published": "2018-09-11T20:10:24Z",
-        "Title": "Marina Bay Sands, Singapore",
-        "Updated": "2018-09-11T20:10:24Z",
         "name": "Marina Bay Sands, Singapore"
       },
       "geometry": {
@@ -1772,7 +1425,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=15230564865071583006",
         "Location": {
           "Address": "Xatt is-Sajjieda, Marsaxlokk, Malta",
           "Business Name": "Marsaxlokk Open Market",
@@ -1782,9 +1434,6 @@
             "Longitude": "14.5452762"
           }
         },
-        "Published": "2018-09-11T19:58:45Z",
-        "Title": "Marsaxlokk Open Market",
-        "Updated": "2018-09-11T19:58:45Z",
         "name": "Marsaxlokk Open Market"
       },
       "geometry": {
@@ -1798,14 +1447,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=Mdina,+Malta&ftid=0x130e519568ce9a2f:0x99705c199db5bc13",
         "Location": {
           "Latitude": "35.888093",
           "Longitude": "14.406836"
         },
-        "Published": "2018-09-11T19:57:53Z",
-        "Title": "Mdina, Malta",
-        "Updated": "2018-09-11T19:57:53Z",
         "name": "Mdina, Malta"
       },
       "geometry": {
@@ -1819,7 +1464,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=6876591736631732009",
         "Location": {
           "Address": "Japan, 〒150-0001 東京都渋谷区神宮前６−４−３",
           "Business Name": "Meiji-jingumae ’Harajuku’ Sta.",
@@ -1829,9 +1473,6 @@
             "Longitude": "139.7053991"
           }
         },
-        "Published": "2019-03-14T00:59:26Z",
-        "Title": "Meiji-jingumae <Harajuku> Station",
-        "Updated": "2019-03-14T00:59:26Z",
         "name": "Meiji-jingumae <Harajuku> Station"
       },
       "geometry": {
@@ -1845,7 +1486,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=9895253263373375600",
         "Location": {
           "Address": "1352 Rufina Circle, Santa Fe, NM 87507, United States",
           "Business Name": "Meow Wolf",
@@ -1855,10 +1495,10 @@
             "Longitude": "-105.9965202"
           }
         },
-        "Published": "2019-05-06T18:49:06Z",
-        "Title": "Meow Wolf",
-        "Updated": "2019-05-06T18:49:06Z",
-        "name": "Meow Wolf"
+        "name": "Meow Wolf",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -1871,14 +1511,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=Metsamor,+Armenia&ftid=0x406aee90227b5e93:0x8aeaa375304f0ceb",
         "Location": {
           "Latitude": "40.142750",
           "Longitude": "44.124167"
         },
-        "Published": "2019-04-14T11:59:46Z",
-        "Title": "Metsamor, Armenia",
-        "Updated": "2019-04-14T11:59:46Z",
         "name": "Metsamor, Armenia"
       },
       "geometry": {
@@ -1892,15 +1528,27 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=Mountain+Huashan,+Yinjiang,+Tongren,+China&ftid=0x369645ab26edc72b:0xa22429a444d263ea",
+        "name": "Milestii Mici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.845552,
+          47.026128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Latitude": "27.896663",
           "Longitude": "108.571045"
         },
-        "Published": "2019-04-14T09:04:09Z",
-        "Title": "Mountain Huashan, Yinjiang, Tongren, China",
-        "Updated": "2019-04-14T09:04:09Z",
-        "name": "Mountain Huashan, Yinjiang, Tongren, China"
+        "name": "Mountain Huashan, Yinjiang, Tongren, China",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -1926,7 +1574,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=10071655761216404776",
+        "name": "National Railway Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.097911,
+          53.960551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "3170950, Gibbston 9371, New Zealand",
           "Business Name": "Nevis Bungy & Swing",
@@ -1936,10 +1596,10 @@
             "Longitude": "169.0289288"
           }
         },
-        "Published": "2019-04-14T08:58:39Z",
-        "Title": "Nevis Bungy & Swing",
-        "Updated": "2019-04-14T08:58:39Z",
-        "name": "Nevis Bungy & Swing"
+        "name": "Nevis Bungy & Swing",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -1965,14 +1625,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=Novotel+Xinqiao+Beijing,+Dongcheng+Qu,+Beijing+Shi,+China&ftid=0x35f052b4f4f7a427:0x226e6cbc0d8a1469",
         "Location": {
           "Latitude": "39.901757",
           "Longitude": "116.416715"
         },
-        "Published": "2018-05-17T07:59:53Z",
-        "Title": "Novotel Xinqiao Beijing, Dongcheng Qu, Beijing Shi, China",
-        "Updated": "2018-05-17T07:59:53Z",
         "name": "Novotel Xinqiao Beijing, Dongcheng Qu, Beijing Shi, China"
       },
       "geometry": {
@@ -1986,7 +1642,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=11241568063329765729",
         "Location": {
           "Address": "Japan, 〒135-0091 Tokyo, Minato City, Daiba, 1 Chome−4, 台場海浜公園内",
           "Business Name": "Odaiba Statue of Liberty Replica",
@@ -1996,9 +1651,6 @@
             "Longitude": "139.7718235"
           }
         },
-        "Published": "2019-03-14T00:55:22Z",
-        "Title": "Odaiba Statue of Liberty",
-        "Updated": "2019-03-14T00:55:22Z",
         "name": "Odaiba Statue of Liberty"
       },
       "geometry": {
@@ -2013,7 +1665,10 @@
       "type": "Feature",
       "properties": {
         "name": "Old Dragons Head",
-        "description": "Where the Great Wall meets the sea"
+        "description": "Where the Great Wall meets the sea",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2039,15 +1694,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=Unnamed+Road,+Nanming+Qu,+Guiyang+Shi,+Guizhou+Sheng,+China,+550001&ftid=0x36bf4260546490d9:0x8e1f4f461c8a88a2",
         "Location": {
           "Latitude": "26.520663",
           "Longitude": "106.773292"
         },
-        "Published": "2019-05-19T18:28:51Z",
-        "Title": "Unnamed Road, Nanming Qu, Guiyang Shi, Guizhou Sheng, China, 550001",
-        "Updated": "2019-05-19T18:28:51Z",
-        "name": "oriental science fiction valley"
+        "name": "oriental science fiction valley",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2060,7 +1714,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=3231512592087154070",
         "Location": {
           "Address": "3-7-1-2, 西新宿 東京都 163-1055, Japan",
           "Business Name": "Park Hyatt Tokyo",
@@ -2070,10 +1723,10 @@
             "Longitude": "139.6907125"
           }
         },
-        "Published": "2018-09-15T11:32:31Z",
-        "Title": "Park Hyatt Tokyo",
-        "Updated": "2018-09-15T11:32:31Z",
-        "name": "Park Hyatt Tokyo"
+        "name": "Park Hyatt Tokyo",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2086,7 +1739,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=1068146055838553218",
+        "name": "Plitvice Lakes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.611229,
+          44.878255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Abu Dhabi International Airport - Opposite Terminals 1 & 3 - أبو ظبي - United Arab Emirates",
           "Business Name": "Premier Inn Abu Dhabi International Airport Hotel",
@@ -2096,9 +1761,6 @@
             "Longitude": "54.6415610"
           }
         },
-        "Published": "2018-09-11T20:25:23Z",
-        "Title": "Premier Inn Abu Dhabi International Airport Hotel",
-        "Updated": "2018-09-11T20:25:23Z",
         "name": "Premier Inn Abu Dhabi International Airport Hotel"
       },
       "geometry": {
@@ -2112,14 +1774,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=Pryp'yat',+Kyiv+Oblast,+Ukraine&ftid=0x472a7daa5b69c469:0x32d80be9b6bf089a",
         "Location": {
           "Latitude": "51.404503",
           "Longitude": "30.054233"
         },
-        "Published": "2018-09-11T20:07:16Z",
-        "Title": "Pryp'yat', Kyiv Oblast, Ukraine",
-        "Updated": "2018-09-11T20:07:16Z",
         "name": "Pryp'yat', Kyiv Oblast, Ukraine"
       },
       "geometry": {
@@ -2133,7 +1791,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=424928110232044403",
         "Location": {
           "Address": "42 Adler Street, London E1 1EE, United Kingdom",
           "Business Name": "Qbic Hotel London City",
@@ -2143,9 +1800,6 @@
             "Longitude": "-0.0675620"
           }
         },
-        "Published": "2018-09-15T11:00:01Z",
-        "Title": "Qbic Hotel London City",
-        "Updated": "2018-09-15T11:00:01Z",
         "name": "Qbic Hotel London City"
       },
       "geometry": {
@@ -2159,7 +1813,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=8550643426022704229",
         "Location": {
           "Address": "Dubai - United Arab Emirates",
           "Business Name": "Queen Elizabeth 2",
@@ -2169,9 +1822,6 @@
             "Longitude": "55.2814875"
           }
         },
-        "Published": "2018-09-15T11:11:45Z",
-        "Title": "Queen Elizabeth 2",
-        "Updated": "2018-09-15T11:11:45Z",
         "name": "Queen Elizabeth 2"
       },
       "geometry": {
@@ -2185,7 +1835,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=11961106303998249905",
         "Location": {
           "Address": "Chicago Avenue, Manchester M90 3RA, United Kingdom",
           "Business Name": "Radisson Blu Hotel Manchester Airport",
@@ -2195,9 +1844,6 @@
             "Longitude": "-2.2753538"
           }
         },
-        "Published": "2018-09-11T19:47:35Z",
-        "Title": "Radisson Blu Hotel Manchester Airport",
-        "Updated": "2018-09-11T19:47:35Z",
         "name": "Radisson Blu Hotel Manchester Airport"
       },
       "geometry": {
@@ -2211,7 +1857,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=7072447689139259600",
         "Location": {
           "Address": "Hong Kong International Airport, Lantau Island, 9 Cheong Tat Road, Chek Lap Kok, Hong Kong",
           "Business Name": "Regal Airport Hotel Hong Kong",
@@ -2221,9 +1866,6 @@
             "Longitude": "113.9342830"
           }
         },
-        "Published": "2018-05-17T07:59:08Z",
-        "Title": "Regal Airport Hotel",
-        "Updated": "2018-05-17T07:59:08Z",
         "name": "Regal Airport Hotel"
       },
       "geometry": {
@@ -2237,7 +1879,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=6203568393570389713",
         "Location": {
           "Address": "Via Mino Rosi, 12, 56122 Pisa PI, Italy",
           "Business Name": "Rosso di Sera Relais Tuscany",
@@ -2247,9 +1888,6 @@
             "Longitude": "10.3876599"
           }
         },
-        "Published": "2017-10-06T12:50:58Z",
-        "Title": "Rosso di Sera Relais Tuscany",
-        "Updated": "2017-10-06T12:50:58Z",
         "name": "Rosso di Sera Relais Tuscany"
       },
       "geometry": {
@@ -2276,7 +1914,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=11022065800176101654",
         "Location": {
           "Address": "Kirkuk Rd, Erbil, Iraq",
           "Business Name": "Safeer",
@@ -2286,9 +1923,6 @@
             "Longitude": "44.0122712"
           }
         },
-        "Published": "2015-10-26T06:00:49Z",
-        "Title": "Safeer Hotel",
-        "Updated": "2015-10-26T06:00:49Z",
         "name": "Safeer Hotel"
       },
       "geometry": {
@@ -2302,13 +1936,29 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Salina Turda"
+        "name": "Salina Turda",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           23.787665,
           46.587686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saltburn Cliff Lift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.970573,
+          54.586176
         ]
       }
     },
@@ -2328,7 +1978,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sanrio Puroland"
+        "name": "Sanrio Puroland",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2341,14 +1994,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=17395286228320685886",
         "Location": {
           "Latitude": "37.562050",
           "Longitude": "126.978825"
         },
-        "Published": "2015-05-23T07:33:45Z",
-        "Title": "Shinshin Hotel Myeongdong",
-        "Updated": "2015-05-23T07:33:45Z",
         "name": "Shinshin Hotel Myeongdong"
       },
       "geometry": {
@@ -2362,7 +2011,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sir John Soane's Museum"
+        "name": "Sir John Soane's Museum",
+        "_umap_options": {
+          "color": "PaleGreen"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2375,7 +2027,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=5567377928216002191",
         "Location": {
           "Address": "Axel Lunds veg 27, 4055, Norway",
           "Business Name": "Sola Strand Hotel",
@@ -2385,9 +2036,6 @@
             "Longitude": "5.6048442"
           }
         },
-        "Published": "2018-09-11T19:49:59Z",
-        "Title": "Sola Strand Hotel",
-        "Updated": "2018-09-11T19:49:59Z",
         "name": "Sola Strand Hotel"
       },
       "geometry": {
@@ -2401,7 +2049,23 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Spreepark"
+        "name": "Southport Pier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.021271,
+          53.655247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spreepark",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2414,14 +2078,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?q=Stanley,+Hong+Kong&ftid=0x3406aa13b09b9ca9:0x3c87bbc69bd981b0",
         "Location": {
           "Latitude": "22.220422",
           "Longitude": "114.212669"
         },
-        "Published": "2018-09-27T11:32:47Z",
-        "Title": "Stanley, Hong Kong",
-        "Updated": "2018-09-27T11:32:47Z",
         "name": "Stanley, Hong Kong"
       },
       "geometry": {
@@ -2435,7 +2095,32 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=7221020619307015507",
+        "name": "Stari Most"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.814846,
+          43.337101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stebuklas Miracle Tile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.286927,
+          54.68567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "21 Godbyvägen, Mariehamn 22100, Åland Islands",
           "Business Name": "Strandnäs Hotell",
@@ -2445,9 +2130,6 @@
             "Longitude": "19.9427184"
           }
         },
-        "Published": "2018-09-11T19:54:03Z",
-        "Title": "Strandnäs Hotell",
-        "Updated": "2018-09-11T19:54:03Z",
         "name": "Strandnäs Hotell"
       },
       "geometry": {
@@ -2461,7 +2143,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=907738204477064983",
         "Location": {
           "Address": "00190 Helsinki, Finland",
           "Business Name": "Suomenlinna",
@@ -2471,9 +2152,6 @@
             "Longitude": "24.9881401"
           }
         },
-        "Published": "2018-09-11T19:55:58Z",
-        "Title": "Suomenlinna",
-        "Updated": "2018-09-11T19:55:58Z",
         "name": "Suomenlinna"
       },
       "geometry": {
@@ -2487,7 +2165,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=14516408273722441878",
         "Location": {
           "Address": "18 Marina Gardens Drive, Singapore 018953",
           "Business Name": "Supertree Grove",
@@ -2497,9 +2174,6 @@
             "Longitude": "103.8639057"
           }
         },
-        "Published": "2018-09-11T20:10:00Z",
-        "Title": "Supertree Grove",
-        "Updated": "2018-09-11T20:10:00Z",
         "name": "Supertree Grove"
       },
       "geometry": {
@@ -2513,7 +2187,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tanggula Railway Station"
+        "name": "Tanggula Railway Station",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2539,7 +2216,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=4787629993113422276",
         "Location": {
           "Address": "Teufelsseechaussee 10, 14193 Berlin, Germany",
           "Business Name": "Teufelsberg",
@@ -2549,9 +2225,6 @@
             "Longitude": "13.2388740"
           }
         },
-        "Published": "2018-09-11T19:50:41Z",
-        "Title": "Teufelsberg",
-        "Updated": "2018-09-11T19:50:41Z",
         "name": "Teufelsberg"
       },
       "geometry": {
@@ -2565,7 +2238,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=5240632478041790807",
         "Location": {
           "Address": "Vía a Runtún, Baños de Agua Santa, Ecuador",
           "Business Name": "The Flight of the Condor",
@@ -2575,10 +2247,10 @@
             "Longitude": "-78.4143660"
           }
         },
-        "Published": "2019-04-14T08:54:17Z",
-        "Title": "The Flight of the Condor",
-        "Updated": "2019-04-14T08:54:17Z",
-        "name": "The Flight of the Condor"
+        "name": "The Flight of the Condor",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2591,7 +2263,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=16116289650480717372",
         "Location": {
           "Address": "Langelinie, 2100 København Ø, Denmark",
           "Business Name": "The Little Mermaid",
@@ -2601,9 +2272,6 @@
             "Longitude": "12.5992828"
           }
         },
-        "Published": "2018-09-11T19:53:06Z",
-        "Title": "The Little Mermaid",
-        "Updated": "2018-09-11T19:53:06Z",
         "name": "The Little Mermaid"
       },
       "geometry": {
@@ -2630,7 +2298,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=11186684631462514667",
         "Location": {
           "Address": "oblast, Kyiv Oblast, Ukraine",
           "Business Name": "The Russian Woodpecker Transmitter",
@@ -2640,9 +2307,6 @@
             "Longitude": "30.0689051"
           }
         },
-        "Published": "2018-09-11T20:08:02Z",
-        "Title": "The Russian Woodpecker Transmitter",
-        "Updated": "2018-09-11T20:08:02Z",
         "name": "The Russian Woodpecker Transmitter"
       },
       "geometry": {
@@ -2656,7 +2320,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=16753746549939369084",
         "Location": {
           "Address": "Silo Square, V & A Waterfront, Cape Town, 8801, South Africa",
           "Business Name": "The Silo Hotel",
@@ -2666,10 +2329,10 @@
             "Longitude": "18.4227140"
           }
         },
-        "Published": "2018-09-15T11:01:59Z",
-        "Title": "The Silo Hotel",
-        "Updated": "2018-09-15T11:01:59Z",
-        "name": "The Silo Hotel"
+        "name": "The Silo Hotel",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2682,7 +2345,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=5882552970251064302",
         "Location": {
           "Address": "Schilthornbahn AG, 3825, Switzerland",
           "Business Name": "Thrill Walk, Birg",
@@ -2692,10 +2354,10 @@
             "Longitude": "7.8581651"
           }
         },
-        "Published": "2019-04-14T09:05:16Z",
-        "Title": "Thrill Walk, Birg",
-        "Updated": "2019-04-14T09:05:16Z",
-        "name": "Thrill Walk, Birg"
+        "name": "Thrill Walk, Birg",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2708,7 +2370,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=313277820931665850",
         "Location": {
           "Address": "China, Hunan, Zhangjiajie, Yongding, 104乡道天门山索道站天门山旅游景区天门仙山",
           "Business Name": "Tianmen Fairy Mountain （North Gate）",
@@ -2718,10 +2379,10 @@
             "Longitude": "110.4756880"
           }
         },
-        "Published": "2019-04-14T09:11:21Z",
-        "Title": "Tianmen Fairy Mountain （North Gate）",
-        "Updated": "2019-04-14T09:11:21Z",
-        "name": "Tianmen Fairy Mountain"
+        "name": "Tianmen Fairy Mountain",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2734,7 +2395,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=1745023285357972963",
         "Location": {
           "Address": "Skovbrynet 5, 8000 Aarhus, Denmark",
           "Business Name": "Tivoli Friheden",
@@ -2744,16 +2404,42 @@
             "Longitude": "10.1978533"
           }
         },
-        "Published": "2019-04-14T08:51:51Z",
-        "Title": "Tivoli Friheden",
-        "Updated": "2019-04-14T08:51:51Z",
-        "name": "Tivoli Friheden"
+        "name": "Tivoli Friheden",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           10.197853,
           56.136601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Transnistria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.633101,
+          46.845238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U-534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00926,
+          53.394127
         ]
       }
     },
@@ -2773,7 +2459,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=3892796888607511210",
         "Location": {
           "Address": "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
           "Business Name": "Universal Studios Japan",
@@ -2783,10 +2468,10 @@
             "Longitude": "135.4323382"
           }
         },
-        "Published": "2019-04-14T09:07:48Z",
-        "Title": "Universal Studios Japan",
-        "Updated": "2019-04-14T09:07:48Z",
-        "name": "Universal Studios Japan"
+        "name": "Universal Studios Japan",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2799,7 +2484,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=3500426646667023007",
         "Location": {
           "Address": "8 Sentosa Gateway, Singapore 098269",
           "Business Name": "Universal Studios Singapore",
@@ -2809,9 +2493,6 @@
             "Longitude": "103.8238084"
           }
         },
-        "Published": "2018-09-11T20:10:36Z",
-        "Title": "Universal Studios Singapore",
-        "Updated": "2018-09-11T20:10:36Z",
         "name": "Universal Studios Singapore"
       },
       "geometry": {
@@ -2825,7 +2506,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=7871707363275866344",
+        "name": "USS Pueblo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.740414,
+          39.040253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "303-1 Shimotsuifukiage, Kurashiki, Okayama 711-0926, Japan",
           "Business Name": "Washuzan Highland",
@@ -2835,10 +2528,10 @@
             "Longitude": "133.7975720"
           }
         },
-        "Published": "2019-04-14T08:56:22Z",
-        "Title": "Washuzan Highland",
-        "Updated": "2019-04-14T08:56:22Z",
-        "name": "Washuzan Highland"
+        "name": "Washuzan Highland",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2851,7 +2544,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=6292926334918181837",
+        "name": "Welcome to Gagauzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.740658,
+          46.415955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Arch 35a, 85a Southwark Bridge Road, London SE1 0NQ, United Kingdom",
           "Business Name": "Where The Pancakes Are",
@@ -2861,9 +2566,6 @@
             "Longitude": "-0.0954695"
           }
         },
-        "Published": "2018-09-15T10:59:12Z",
-        "Title": "Where The Pancakes Are",
-        "Updated": "2018-09-15T10:59:12Z",
         "name": "Where The Pancakes Are"
       },
       "geometry": {
@@ -2877,7 +2579,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=1010412345674798581",
+        "name": "Whitby Abbey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.607392,
+          54.488584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "China",
           "Business Name": "Window of the World",
@@ -2887,9 +2601,6 @@
             "Longitude": "113.9745140"
           }
         },
-        "Published": "2018-10-18T10:55:02Z",
-        "Title": "Window of the World",
-        "Updated": "2018-10-18T10:55:02Z",
         "name": "Window of the World"
       },
       "geometry": {
@@ -2903,7 +2614,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=16883271056857764171",
         "Location": {
           "Address": "Dubai - United Arab Emirates",
           "Business Name": "XLine Dubai Marina",
@@ -2913,9 +2623,6 @@
             "Longitude": "55.1403645"
           }
         },
-        "Published": "2019-04-14T09:10:11Z",
-        "Title": "XLine Dubai Marina",
-        "Updated": "2019-04-14T09:10:11Z",
         "name": "XLine Dubai Marina"
       },
       "geometry": {
@@ -2929,7 +2636,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=6095285919121239051",
         "Location": {
           "Address": "2 Chome-8-1 Shinko, Naka Ward, Yokohama, Kanagawa 231-0001, Japan",
           "Business Name": "Yokohama Cosmoworld",
@@ -2939,10 +2645,10 @@
             "Longitude": "139.6368839"
           }
         },
-        "Published": "2019-04-14T09:07:28Z",
-        "Title": "Yokohama Cosmoworld",
-        "Updated": "2019-04-14T09:07:28Z",
-        "name": "Yokohama Cosmoworld"
+        "name": "Yokohama Cosmoworld",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2955,7 +2661,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=6347582234825451422",
+        "name": "York Solar System Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.097997,
+          53.916332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Yung Shue Wan Main Street, Lamma Island, Hong Kong",
           "Business Name": "Yung Shue Wan Ferry Pier",
@@ -2965,9 +2683,6 @@
             "Longitude": "114.1087732"
           }
         },
-        "Published": "2018-09-11T17:09:03Z",
-        "Title": "Yung Shue Wan Ferry Pier",
-        "Updated": "2018-09-11T17:09:03Z",
         "name": "Yung Shue Wan Ferry Pier"
       },
       "geometry": {
@@ -2981,7 +2696,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=3273598495911959727",
         "Location": {
           "Address": "Zip World Penrhyn Quarry, Bethesda LL57 4YG, United Kingdom",
           "Business Name": "Zip World Penrhyn Quarry",
@@ -2991,10 +2705,10 @@
             "Longitude": "-4.0632250"
           }
         },
-        "Published": "2019-04-14T08:52:51Z",
-        "Title": "Zip World Penrhyn Quarry",
-        "Updated": "2019-04-14T08:52:51Z",
-        "name": "Zip World Penrhyn Quarry"
+        "name": "Zip World Penrhyn Quarry",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -3007,7 +2721,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Google Maps URL": "http://maps.google.com/?cid=8842737462833996787",
         "Location": {
           "Address": "China, Shanghai, 申迪西路360号 邮政编码: 200122",
           "Business Name": "上海玩具总动员酒店",
@@ -3017,9 +2730,6 @@
             "Longitude": "121.6549030"
           }
         },
-        "Published": "2019-03-20T13:21:49Z",
-        "Title": "上海玩具总动员酒店",
-        "Updated": "2019-03-20T13:21:49Z",
         "name": "上海玩具总动员酒店"
       },
       "geometry": {
