@@ -6,20 +6,12 @@ var osm = new L.TileLayer(osmUrl, {minZoom: 2, maxZoom: 12, attribution: osmAttr
 mymap.addLayer(osm);
 
 function onEachFeature(feature, layer) {
-    if (feature.properties && feature.properties.Title) {
-        layer.bindPopup(feature.properties.Title);
+    if (feature.properties && feature.properties.name) {
+        layer.bindPopup(feature.properties.name);
     }
 }
 
 fetch("/places.json")
-    .then((resp) => resp.json())
-    .then(function (p) {
-        L.geoJSON(p, {
-            onEachFeature: onEachFeature
-        }).addTo(mymap);
-    });
-
-fetch("/atlasobscura.json")
     .then((resp) => resp.json())
     .then(function (p) {
         L.geoJSON(p, {
