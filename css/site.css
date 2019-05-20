@@ -8,7 +8,7 @@ html, body, #mapid {
     width: 100vw;
 }
 
-html, body, #submitmap {
+#submitmap {
     height: 350px;
     width: 300px;
 }
