@@ -6,24 +6,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
 </head>
 <body>
-<p>Your submissions of places to visit are welcome.</p>
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="url">
-    <p class="hidden">
-        <label>Don't fill this out: <input name="url" /></label>
-    </p>
-    <p>
-        <label>Place Name: <input type="text" name="placename" /></label>
-    </p>
-    <p>
-        <label>Your Name: <input type="text" name="yourname" /></label>
-    </p>
-    <p>
-        <label>Description: <textarea name="description"></textarea></label>
-    </p>
-    <p>
-        <button type="submit">Send your place</button>
-    </p>
-</form>
+<div id="container">
+    <div id="submitmap"></div>
+    <div id="form">
+        <form name="contact" method="POST" data-netlify="true" netlify-honeypot="url">
+            <div class="hidden">
+                <label>Don't fill this out: <input name="url" /></label>
+            </div>
+            <div>
+                <label>Place Name: <input type="text" name="placename" required="true" /></label>
+            </div>
+            <div>
+                <label>Your Name: <br><input type="text" name="yourname" /></label>
+            </div>
+            <div>
+                <label>Location: <br><textarea name="location" id="pointlocation" required="true"></textarea></label>
+            </div>
+            <div>
+                <label>Description: <textarea name="description" required="true"></textarea></label>
+            </div>
+            <div>
+                <button type="submit">Send your place</button>
+            </div>
+        </form>
+    </div>
+</div>
+<div>Click on the map to describe a location using geoJSON, click on the marker to remove it.</div>
+<div>Or describe the location in the form.</div>
 <p><a href="/">Back</a></p>
+
+<script src="/vendor/leaflet.js"></script>
+<script src="/vendor/svg-icon.js"></script>
+<script src="/js/submit.js"></script>
 </body>
 </html>
