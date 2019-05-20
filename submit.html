@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>Alice's Places</title>
+    <link rel="stylesheet" href="/vendor/leaflet.css">
+    <link rel="stylesheet" href="/css/site.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+</head>
+<body>
+<p>Your submissions of places to visit are welcome.</p>
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="url">
+    <p class="hidden">
+        <label>Don't fill this out: <input name="url" /></label>
+    </p>
+    <p>
+        <label>Place Name: <input type="text" name="placename" /></label>
+    </p>
+    <p>
+        <label>Your Name: <input type="text" name="yourname" /></label>
+    </p>
+    <p>
+        <label>Description: <textarea name="description"></textarea></label>
+    </p>
+    <p>
+        <button type="submit">Send your place</button>
+    </p>
+</form>
+<p><a href="/">Back</a></p>
+</body>
+</html>
