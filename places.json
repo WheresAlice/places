@@ -2019,7 +2019,10 @@
             "Longitude": "55.2814875"
           }
         },
-        "name": "Queen Elizabeth 2"
+        "name": "Queen Elizabeth 2",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2924,7 +2927,10 @@
             "Longitude": "55.1403645"
           }
         },
-        "name": "XLine Dubai Marina"
+        "name": "XLine Dubai Marina",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
