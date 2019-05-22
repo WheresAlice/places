@@ -4,6 +4,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": ",Psirtska train station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.815832,
+          43.091972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Latitude": "22.277545",
           "Longitude": "114.144146"
@@ -266,6 +279,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bedia Cathedral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.670256,
+          42.77946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Hauptbahnhof, Europaplatz 1, 10557 Berlin, Germany",
           "Business Name": "Berlin Central Station",
@@ -323,6 +349,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Blue Mosque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.111161,
+          36.708905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "51 Galaktion Tabidze Street, Kutaisi 4600, Georgia",
           "Business Name": "სასტუმრო არგო",
@@ -358,6 +397,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Buzkashi Ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.118939,
+          36.676192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Central-Mid-Levels Escalators"
       },
       "geometry": {
@@ -387,6 +439,20 @@
         "coordinates": [
           114.028392,
           22.208613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimtal Gate",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.141838,
+          36.569145
         ]
       }
     },
@@ -551,6 +617,33 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "",
+        "name": "Duhok Family Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.197805,
+          36.055405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dukan Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.974766,
+          35.948551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "200 Duryugongwon-ro, Dalseo-gu, Daegu, South Korea",
           "Business Name": "Eworld",
@@ -685,6 +778,32 @@
         "coordinates": [
           138.780551,
           35.486947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgia Abkhazia border crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.851473,
+          42.582589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haj Piyadh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.887774,
+          36.732169
         ]
       }
     },
@@ -1068,6 +1187,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Khanzad Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.179623,
+          36.353752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Kim Il-sung Square"
       },
       "geometry": {
@@ -1100,6 +1232,19 @@
         "coordinates": [
           -118.000226,
           33.844304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korek Cable Car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.456118,
+          36.598756
         ]
       }
     },
@@ -1166,6 +1311,19 @@
         "coordinates": [
           12.300814,
           57.668715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Last King of Afghanistan's hunting lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.68705,
+          36.689161
         ]
       }
     },
@@ -1464,6 +1622,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Megisti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.590302,
+          36.149138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Japan, 〒150-0001 東京都渋谷区神宮前６−４−３",
           "Business Name": "Meiji-jingumae ’Harajuku’ Sta.",
@@ -1625,6 +1796,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "New Athos Monastery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.82129,
+          43.088008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Latitude": "39.901757",
           "Longitude": "116.416715"
@@ -1658,6 +1842,19 @@
         "coordinates": [
           139.771824,
           35.627844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ohrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.792478,
+          41.110868
         ]
       }
     },
@@ -1857,6 +2054,32 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Rawanduz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.531386,
+          36.616515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rawanduz Resort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.506892,
+          36.614772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Hong Kong International Airport, Lantau Island, 9 Cheong Tat Road, Chek Lap Kok, Hong Kong",
           "Business Name": "Regal Airport Hotel Hong Kong",
@@ -1936,6 +2159,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Saint Naum Monastery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.740793,
+          40.913918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Salina Turda",
         "_umap_options": {
           "color": "DeepSkyBlue"
@@ -1959,6 +2195,19 @@
         "coordinates": [
           -0.970573,
           54.586176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sami Abdulrahman Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.984338,
+          36.191874
         ]
       }
     },
@@ -2043,6 +2292,19 @@
         "coordinates": [
           5.604844,
           58.884986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern most point of Continental Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.821431,
+          1.247941
         ]
       }
     },
@@ -2420,6 +2682,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Tkvarcheli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.674321,
+          42.84459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Transnistria"
       },
       "geometry": {
@@ -2519,6 +2794,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Uzbekistan Afghanistan border crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.429508,
+          37.229046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "303-1 Shimotsuifukiage, Kurashiki, Okayama 711-0926, Japan",
           "Business Name": "Washuzan Highland",
@@ -2586,6 +2874,19 @@
         "coordinates": [
           -0.607392,
           54.488584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wholesale Fruit Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.168737,
+          22.312322
         ]
       }
     },
@@ -2715,6 +3016,71 @@
         "coordinates": [
           -4.063225,
           53.169156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Верхня Станція"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.522916,
+          50.456896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Гагра станция"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.283872,
+          43.262343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дача Сталина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.116343,
+          43.362991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Пицунда"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.347517,
+          43.151932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Псху"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.814969,
+          43.383137
         ]
       }
     },
