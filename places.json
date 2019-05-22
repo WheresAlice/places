@@ -170,6 +170,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Alcatraz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422646,
+          37.826545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Disney Village, 77700 Chessy, France",
           "Business Name": "Annette's Diner",
@@ -410,6 +423,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cattersty Sanda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.904123,
+          54.575353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Central-Mid-Levels Escalators"
       },
       "geometry": {
@@ -516,6 +542,19 @@
         "coordinates": [
           -90.200414,
           38.633626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coney Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982303,
+          40.572323
         ]
       }
     },
@@ -638,6 +677,19 @@
         "coordinates": [
           44.974766,
           35.948551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Durham Cathedral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.57653,
+          54.773229
         ]
       }
     },
@@ -784,6 +836,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Gardaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.713816,
+          45.45655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Georgia Abkhazia border crossing"
       },
       "geometry": {
@@ -791,6 +856,19 @@
         "coordinates": [
           41.851473,
           42.582589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Gate Bridge viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48163,
+          37.827559
         ]
       }
     },
@@ -902,6 +980,19 @@
         "coordinates": [
           23.416523,
           56.015194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilton Doubletree Suites"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.572139,
+          44.646725
         ]
       }
     },
@@ -1099,6 +1190,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Humber Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.448679,
+          53.70687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Triq Il-Palazz Ta' L-Isqof, Birgu BRG 1023, Malta",
           "Business Name": "Inquisitor's Palace",
@@ -1159,6 +1263,19 @@
         "coordinates": [
           121.469886,
           31.230711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandersteg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.671718,
+          46.495444
         ]
       }
     },
@@ -1487,6 +1604,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Macau Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.53689,
+          22.179773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Attard, Malta",
           "Business Name": "Malta Aviation Museum",
@@ -1739,6 +1869,19 @@
         "coordinates": [
           30.5636,
           50.426634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namsan Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.988305,
+          37.551212
         ]
       }
     },
@@ -2198,6 +2341,19 @@
         "coordinates": [
           -0.970573,
           54.586176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sama Sama Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.704093,
+          2.757986
         ]
       }
     },
@@ -2804,6 +2960,19 @@
         "coordinates": [
           67.429508,
           37.229046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Venetian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.56164,
+          22.148124
         ]
       }
     },
