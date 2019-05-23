@@ -1,4 +1,4 @@
-var mymap = L.map('mapid').fitWorld();
+var mymap = L.map('mapid', {worldCopyJump: true}).fitWorld();
 
 var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 var osmAttrib = 'Map data � <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
