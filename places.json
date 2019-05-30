@@ -836,6 +836,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Fuxing Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.464643,
+          31.218736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Gardaland"
       },
       "geometry": {
@@ -1816,7 +1829,10 @@
           "Latitude": "40.142750",
           "Longitude": "44.124167"
         },
-        "name": "Metsamor, Armenia"
+        "name": "Metsamor, Armenia",
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -2162,10 +2178,7 @@
             "Longitude": "55.2814875"
           }
         },
-        "name": "Queen Elizabeth 2",
-        "_umap_options": {
-          "color": "DeepSkyBlue"
-        }
+        "name": "Queen Elizabeth 2"
       },
       "geometry": {
         "type": "Point",
@@ -2396,6 +2409,19 @@
         "coordinates": [
           139.42975,
           35.62508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Science and technology museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.537427,
+          31.220067
         ]
       }
     },
@@ -3081,31 +3107,6 @@
         "coordinates": [
           113.974514,
           22.536818
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Location": {
-          "Address": "Dubai - United Arab Emirates",
-          "Business Name": "XLine Dubai Marina",
-          "Country Code": "AE",
-          "Geo Coordinates": {
-            "Latitude": "25.0764024",
-            "Longitude": "55.1403645"
-          }
-        },
-        "name": "XLine Dubai Marina",
-        "_umap_options": {
-          "color": "DeepSkyBlue"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.140365,
-          25.076402
         ]
       }
     },
