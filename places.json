@@ -888,6 +888,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "German Museum of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377381,
+          52.498795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Golden Gate Bridge viewpoint"
       },
       "geometry": {
@@ -1229,6 +1242,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Humboldthain Flak Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384812,
+          52.547316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Triq Il-Palazz Ta' L-Isqof, Birgu BRG 1023, Malta",
           "Business Name": "Inquisitor's Palace",
@@ -1388,28 +1414,6 @@
         "coordinates": [
           44.456118,
           36.598756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Location": {
-          "Address": "Schönhauser Allee 36, 10435 Berlin, Germany",
-          "Business Name": "Kulturbrauerei",
-          "Country Code": "DE",
-          "Geo Coordinates": {
-            "Latitude": "52.5392510",
-            "Longitude": "13.4135533"
-          }
-        },
-        "name": "KulturBrauerei"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.413553,
-          52.539251
         ]
       }
     },
@@ -1885,6 +1889,19 @@
         "coordinates": [
           108.571045,
           27.896663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Für Naturkunde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37946,
+          52.530068
         ]
       }
     },
@@ -3295,39 +3312,16 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Humboldthain Flak Tower"
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        },
+        "name": "Otherworld"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.384812,
-          52.547316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Museum Für Naturkunde"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.37946,
-          52.530068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "German Museum of Technology"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.377381,
-          52.498795
+          -82.835399,
+          39.922134
         ]
       }
     }
