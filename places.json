@@ -251,6 +251,22 @@
     {
       "type": "Feature",
       "properties": {
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        },
+        "name": "Barentsburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.209682,
+          78.065323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "Base Marambio, Antarctica",
           "Business Name": "Base Marambio",
@@ -1590,6 +1606,22 @@
     {
       "type": "Feature",
       "properties": {
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        },
+        "name": "Longyearbyen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.646658,
+          78.22133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "240 Olympic-ro, Songpa-gu, Seoul, South Korea",
           "Business Name": "Lotte World",
@@ -2100,6 +2132,22 @@
     {
       "type": "Feature",
       "properties": {
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        },
+        "name": "Otherworld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.835399,
+          39.922134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Location": {
           "Address": "3-7-1-2, 西新宿 東京都 163-1055, Japan",
           "Business Name": "Park Hyatt Tokyo",
@@ -2485,6 +2533,22 @@
         "coordinates": [
           -0.117565,
           51.51683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DeepSkyBlue"
+        },
+        "name": "Socotra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.817529,
+          12.455445
         ]
       }
     },
@@ -3306,22 +3370,6 @@
         "coordinates": [
           121.654903,
           31.140211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "_umap_options": {
-          "color": "DeepSkyBlue"
-        },
-        "name": "Otherworld"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.835399,
-          39.922134
         ]
       }
     }
