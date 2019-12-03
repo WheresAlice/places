@@ -3372,6 +3372,22 @@
           31.140211
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MediumSpringGreen"
+        },
+        "name": "Strasbourg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748596,
+          48.584781
+        ]
+      }
     }
   ]
 }
